@@ -152,4 +152,27 @@ The cap's price is never mentioned. This is TOFU; the link-in-bio push comes lat
 
 ---
 
-<!-- Next sections (3–9) get appended below. -->
+## 3. Hook types
+
+| # | Hook type | Template | Why it stops the scroll | Example 1 | Example 2 | Stage |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | POV | "POV: you [relatable situation] in [setting]" | The viewer puts themselves in the scene before they've decided to watch. | "POV: you turn up to five-a-side thinking you're different" | "POV: your mum says you're not wearing that cap to Nan's" | TOFU |
+| 2 | Callout | "If you [habit], [stop / this one's for you]." | Hearing your own habit named feels personal, like it's aimed at you. | "If you bend your brim like a banana, stop." | "Lads who've had the same cap since Year 9 — this is for you." | TOFU |
+| 3 | Question | "Would you [choice]?" / "[A] or [B]?" | The brain answers a question automatically, and the answer goes in the comments. | "Would you model for Deira?" | "Cap forwards or backwards, lad?" | TOFU |
+| 4 | Curiosity gap | "Wait for [the moment]" / "Watch what happens when [X]." | An open loop people need closed. | "Wait for the ref." | "Watch what happens when I pull the stitching." | TOFU / MOFU |
+| 5 | Hot take | "[Opinion half your audience disagrees with]." | People stay to argue, and arguing means comments. | "Backwards caps should be illegal." | "A £28 cap does more for your fit than £100 trainers." | TOFU |
+| 6 | Scarcity | "We made [real number]. There's [real number] left." | A hard limit turns browsing into a decision. | "We made 28 grey caps. There's [X] left." | "7pm. Five slots. That's it." | BOFU |
+| 7 | Versus | "[Cheap option] vs [ours] — spot the difference." | It's a game, and everyone wants to guess right. | "£8 cap vs £28 cap. Spot it." | "Grey or black — which is tidier?" | MOFU |
+| 8 | Story opener | "[Unexpected thing] just happened." | People want to know how a story ends. | "Someone just bought a cap at 2am. Who are you?" | "A lad stopped me on the bus to ask about this cap." (only if it happened) | MOFU |
+| 9 | Number | "[N] [mistakes / rules / fits] every lad [does]." | A set number promises a quick, complete payoff. | "Three cap mistakes every lad makes." | "One cap. Five fits. Go." | TOFU |
+| 10 | Reply to a comment | "Replying to @[user]: '[their comment]'" | A real comment on screen is social proof, and it feels like an ongoing conversation. | "Replying: 'day 1 of asking for a free cap'" | "Replying: 'why's it £28 tho?'" | MOFU |
+
+### The 3 to prioritise now
+
+1. **POV.** It's the natural opener for skits, which were the strongest pattern in the teardown (8.8x). It lands on lads who've never heard of you, which is the job at your size.
+2. **Question.** Participation hooks averaged 7.2x, and Bulley's question hook did 12x. It also fits the street interviews your TikTok already does well, and the comments it gets feed the algorithm.
+3. **Scarcity.** It's the only one of the ten that directly sells the 28 greys, and Zororo got 7.5x with it on a cap of the same kind. It only works with real numbers; one fake "last chance" and it's dead.
+
+---
+
+<!-- Next sections (4–9) get appended below. -->
