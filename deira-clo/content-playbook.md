@@ -175,4 +175,31 @@ The cap's price is never mentioned. This is TOFU; the link-in-bio push comes lat
 
 ---
 
-<!-- Next sections (4–9) get appended below. -->
+## 4. Content formats
+
+8 formats that fit TikTok-first, 14 posts a week, a pro camera, medium editing skills and no UGC.
+
+| # | Format | What it is | Effort | Best stage | Why it works for your audience | Concrete idea |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Comedy skit | A 10–20s scripted bit where the cap is the punchline, never the pitch. | M | TOFU | Lads share jokes with mates, not adverts. Skits averaged 8.8x in the teardown, the strongest format. | Five-a-side changing room: the whole team, ref included, turns up in the grey. |
+| 2 | Street interview series | A recurring question put to real lads on UK high streets, with the cap worked in. | M | TOFU | It's already what your TikTok does. Real local lads make the "part of the crew" positioning visible. | Rate the Fit: rate your fit, swap in the grey cap, re-rate. |
+| 3 | Photo carousel / slideshow | 2–8 still photos with one line of text, posted as a TikTok slideshow or IG carousel. | L | TOFU / MOFU | Your current habit, so there's no learning curve. Bulley (12x, 7.7x) and Zororo (7.5x) both outperformed with slideshows. | "Would you model for Deira?" casting call: 7 portraits, comment "me" + your city. |
+| 4 | Founder to camera | You, phone or camera at arm's length, talking straight to the viewer. | L | MOFU / BOFU | A small UK brand with a face is easier to trust than a logo. NAP's founder selfie story did 9.7x. | 28 Made countdown: overhead shelf shot, real units left, "no restock". |
+| 5 | Fit b-roll + trend sound | Cinematic shots of the cap worn in a real setting, cut to a sound that's on the way up. | L | TOFU | Your pro camera makes this look premium for little effort. Tropez's padel fits did 6.9x. | Sunday League Fits: studs on, grey cap, touchline, cut to an early-stage sound. |
+| 6 | Product test / comparison | Close-up b-roll plus voiceover, putting the cap through tests against a cheap one. | M | MOFU | Answers your number one objection (price) with proof, not claims. | £8 market cap vs £28 Deira cap: stitch pull, crown press, inside label. |
+| 7 | Reply to a comment | A short video answering one real comment, with the comment sticker on screen. | L | MOFU | Turns objections and questions into content and shows the brand listens. It costs almost nothing to make. | "Replying: 'why's it £28 tho?'" — where the money goes, in 20 seconds. |
+| 8 | Cinematic drop trailer | A short film-style teaser that builds to the cap and a drop date. | H | MOFU | Makes a small drop feel like an event. NAP's heist-style cap teaser did 6.0x. Max 1 per fortnight. | "Operation 28": masked lads "steal" the last 28 grey caps, ending on the cap and the link. |
+
+### Formats to stop wasting time on
+
+| Format | Why it doesn't suit you |
+| --- | --- |
+| UGC / paid creator unboxings | You've said no UGC, and at about £28 a cap, paying creators eats the margin on a 28-unit drop. Get the face-led effect with your own street interviews instead. |
+| Plain drop / "out now" posts | Topped out at 1.6–2.3x in the teardown; More Money More Love posted almost nothing else and never hit 3x. Fold drop info into the caption of a skit or carousel instead. |
+| Live selling | With about 1.2K and 300 followers, lives will be near-empty rooms, and you sell through Shopify, not TikTok Shop. Revisit at 10K. |
+| Dances on peaked sounds | Late to a peaked trend means you compete with millions of posts. Only use sounds still early, like "DIP ON EM" in October. |
+| Long vlogs / day-in-the-life (60s+) | A cap doesn't carry a minute of footage, and long videos eat your 14-a-week capacity. Keep to 10–35s unless it's a story with a payoff, like NAP's 54s order story. |
+
+---
+
+<!-- Next sections (5–9) get appended below. -->
