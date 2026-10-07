@@ -322,4 +322,52 @@ Source for all three: [SocialPilot, 25 Sep – 10 Oct 2026](https://www.socialpi
 
 ---
 
-<!-- Next sections (7–9) get appended below. -->
+## 7. Adapting any winning video without copying it
+
+### The framework: Strip → Name → Swap → Stamp
+
+1. **Strip it.** Describe the video in one sentence with no topic words, only the structure. "Person shows something in bad shape, works on it, reveals the fixed version at the end."
+2. **Name the driver.** Pick the ONE thing that made it work: hook, format, emotion, angle, shareability, trend or person. That's the only thing you keep.
+3. **Swap everything else.** Subject, setting, people and words all become our world: lads, five-a-side, UK high streets, the bus, caps, "mate", "tidy", "different gravy".
+4. **Stamp it.** Add one thing only Deira can do: the grey 28, our recurring series names (Rate the Fit, 28 Made), our people, our slang.
+
+**Copy test, before filming:** cover the logo. Would people still know it's us? Do we reuse any of their footage, lines, captions or the exact same sound and concept? If it's "no" and then "yes", go back to step 3.
+
+### Example 1: from an unrelated niche (cleaning / restoration)
+
+1. **Original concept:** the restoration videos all over cleaning TikTok, where a filthy rug or trainer gets deep-cleaned step by step and the spotless result is revealed at the end.
+2. **What made it work:**
+   - **Strip:** "something in terrible shape, satisfying process, big reveal."
+   - **Driver:** format (before → after), with satisfaction as the emotion. People stay to the end for the reveal, which drives watch time.
+3. **Our version: "Worst Cap in [City]".** Find the most battered cap on a UK high street and swap it for a grey Deira cap. The old one goes on the "wall of shame" at the office. A new city each week.
+   - **Swap:** filthy rug → a lad's Year 9 cap; cleaning process → the street hunt and the swap.
+   - **Stamp:** our series name, our city, the wall of shame as a running gag, the grey cap.
+   - **Hook:** S "Looking for the worst cap in Leeds. Found it." · T "worst cap in leeds 💀" · V: zoom on a sun-bleached, bent cap in a crowd.
+   - **0–3s:** hook; walk up to him.
+   - **3–10s:** close-ups of the damage (frayed brim, faded logo). He tells the story of the cap ("had it since school, mate").
+   - **10–16s:** "Swap it for this?" Hand over the grey. He weighs it up.
+   - **16–22s:** reveal: the grey cap on, quick fit shot, his mate's reaction.
+   - **22–26s:** the old cap pinned to the wall of shame. On-screen: "next city? 👇"
+   - **Stage / effort:** TOFU, street interview + b-roll, medium.
+
+### Example 2: from a direct competitor (Zororo, 7.5x)
+
+1. **Original concept:** a 2-slide slideshow. "WANT TO GET A CAP FOR £10??" over a product-page screenshot, then "6PM - ONLY 10 HATS ARE GOING TO BE SOLD £10.00".
+2. **What made it work:**
+   - **Strip:** "a price-or-limit offer in frame one, then a time and a hard cap on numbers."
+   - **Driver:** hook (an offer plus scarcity up front). Shares ran 4.4x Zororo's median.
+3. **Our version, distinctly ours: "The 28 List".**
+   - **What we don't copy:** the £10 discount. It teaches people to wait for a sale and undercuts the £28 positioning.
+   - **What we keep:** an offer, a time and a hard number in the first frame.
+   - **Stamp:** every grey buyer gets a number from 1 to 28, and the list is shown publicly with buyers' permission. That's the community positioning made visible. The perk is belonging, not money off.
+   - **Hook:** S "Only 28 of you will ever own this." · T "want to be one of 28?" · V: the grey cap on a plinth, number tag hanging off the strap.
+   - **0–3s:** hook.
+   - **3–8s:** "Every grey's numbered. Here's who's got one so far." Show the list (first names or handles with permission, numbers 1–[X]).
+   - **8–13s:** "Tonight at 7, the next five get numbers [X]–[X], plus free next-day." (Use a real perk you can afford.)
+   - **13–16s:** "When the list hits 28, it's closed. Link in bio."
+   - **Format:** founder to camera, not a slideshow, so it looks nothing like Zororo's post.
+   - **Stage / effort:** BOFU, founder to camera, low.
+
+---
+
+<!-- Next sections (8–9) get appended below. -->
