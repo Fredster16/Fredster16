@@ -1,6 +1,6 @@
 # Deira Clo — Content Playbook
 
-Running file. One section per prompt; new sections get appended at the end.
+9 sections: funnel, video pillars, hooks, formats, idea finding, trends, adaptation, 30 ideas, metrics.
 
 - Teardown Report (10 competitor accounts, 35 outliers): https://claude.ai/code/artifact/e6f7996c-72a1-480e-942d-c3697066b71f
 - Content Plan, 12–25 Oct 2026: https://claude.ai/code/artifact/c863bfd8-f61b-40b5-8b8a-14509ee35485
@@ -429,4 +429,80 @@ Source for all three: [SocialPilot, 25 Sep – 10 Oct 2026](https://www.socialpi
 
 ---
 
-<!-- Next section (9) gets appended below. -->
+## 9. Metrics to track (and what to ignore)
+
+Track 4 metrics. All benchmarks below are **rough starting points**: they come from your ~750-view baseline and from the competitor rates in the teardown. Replace them with your own medians after 4 weeks of posting.
+
+**Ignore:** likes, total impressions, hashtag view counts, and follower count checked daily. They move with the 4 metrics below and don't tell you what to change.
+
+### 1. Views vs your own median (x median)
+
+- **What it tells you:** whether the first second stopped people and the algorithm pushed the post past your followers.
+- **Benchmarks** (median starts at 750 TikTok views; work out IG separately):
+
+| Good | Average | Poor |
+| --- | --- | --- |
+| 2x or more (1,500+) | 0.5–2x | Under 0.5x (under 375) |
+
+- **If it's poor:** rewrite the first frame and hook. Swap to a different hook type (from section 3), put the most interesting visual in frame one, and add on-screen text in the first second. If it's 3 posts in a row in one pillar, review that pillar (section 1 rule).
+- **If it's good:** make 3 follow-ups within 7 days: same driver, new angle.
+
+### 2. Retention: average watch time as a % of video length
+
+TikTok analytics → the post → average watch time and the retention graph.
+
+- **What it tells you:** whether the video holds people once they've stopped. This is one of the strongest ranking signals.
+- **Benchmarks** (for 10–35s videos):
+
+| Good | Average | Poor |
+| --- | --- | --- |
+| 70%+ of length | 40–70% | Under 40% |
+
+- **If it's poor:** read the retention graph.
+  - **Big drop in the first 2 seconds:** the hook doesn't match the video. Rewrite the hook to promise exactly what you deliver.
+  - **Slow drop through the middle:** cut 20–30% of the length and add a change every 1–3 seconds (new angle, text or cut).
+  - **Drop just before the end:** the payoff comes too late or is weak. Move it earlier and cut the end card so it loops.
+
+### 3. Share rate (shares ÷ views)
+
+- **What it tells you:** whether lads are sending it to mates, the main way a small account reaches new people.
+- **Benchmarks:** teardown account medians ran 0.12–0.42%; outliers ran 0.7–8%.
+
+| Good | Average | Poor |
+| --- | --- | --- |
+| 0.5%+ | 0.15–0.5% | Under 0.15% |
+
+- **If it's poor:** add a send trigger, one moment that makes someone think "that's my mate" (e.g. "he's had that cap since Year 9"). Make it about the viewer's life, not the cap. Use a caption like "send this to the lad who…".
+
+### 4. Link taps → grey caps sold
+
+TikTok profile views and IG link taps, plus Shopify grey orders tagged by source.
+
+- **What it tells you:** whether attention turns into sales. It's the only metric tied directly to the 90-day goal.
+- **Benchmarks:**
+
+| | Good | Average | Poor |
+| --- | --- | --- | --- |
+| Profile views as % of views | 1%+ | 0.3–1% | Under 0.3% |
+| Grey caps sold | 3+ a week | 2 a week (on pace for 28 in 90 days) | Under 2 a week |
+
+- **If it's poor:**
+  - Link goes straight to the grey product page, not the homepage.
+  - Bio line: "28 made — [X] left 👇"
+  - Pin the latest countdown post.
+  - Add a third BOFU post next week.
+  - One CTA only on BOFU posts: the link.
+
+### Diagnosis guide
+
+| If a video gets… | …but not… | The problem is probably… | Fix |
+| --- | --- | --- | --- |
+| Few views | (and strong watch % from those who saw it) | The first frame isn't stopping people | Rewrite the hook and first visual. Test a different hook type. |
+| Lots of views | Good watch % | The hook overpromised or the middle drags | Match the hook to the payoff. Cut length and add cuts every 1–3s. |
+| Good watch % | Shares | It's watchable but not sendable | Add a "that's my mate" moment and a send-it caption. |
+| Lots of views and shares | New followers | A one-off with no reason to come back | Label it as a series ("ep. 1"), add "follow for ep. 2", and post ep. 2 within 3 days. |
+| Lots of comments | Shares | It's a debate, not a send | Fine for MOFU. For TOFU, add a send trigger. |
+| Profile visits | Link taps | The bio isn't selling | Bio link straight to the grey; add the stock line; pin the countdown post. |
+| Link taps | Sales | The product page or price is the blocker | Show stock, delivery cost and sizing on the page. Post #13 (why £28), #27 (will it fit) and #28 (how to order). |
+| Good TikTok views | Good IG views on the same video | It's not native to IG | Re-upload without the TikTok watermark, use IG audio, set a cover frame, and rewrite the first-line caption. |
+| A whole week drops across all posts | — | Repeated format, wrong time slot or posting gaps | Check the time-test result, change the format mix, and keep 14 a week. Don't delete posts. |
