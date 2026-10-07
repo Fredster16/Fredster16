@@ -1,6 +1,6 @@
 # Deira Clo — Content Playbook
 
-10 sections: funnel, video pillars, hooks, formats, idea finding, trends, adaptation, 30 ideas, metrics, weekly routine.
+11 sections: funnel, video pillars, hooks, formats, idea finding, trends, adaptation, 30 ideas, metrics, weekly routine, skit deep dive.
 
 - Teardown Report (10 competitor accounts, 35 outliers): https://claude.ai/code/artifact/e6f7996c-72a1-480e-942d-c3697066b71f
 - Content Plan, 12–25 Oct 2026: https://claude.ai/code/artifact/c863bfd8-f61b-40b5-8b8a-14509ee35485
@@ -569,3 +569,176 @@ TikTok profile views and IG link taps, plus Shopify grey orders tagged by source
 | 3 | Grey caps sold this week + profile views. | Under 2 sold = 3 BOFU posts next week. Rising profile views but no taps = fix the bio link and pin the countdown. |
 | 2 | This week's test variable (time slot, hook style). | Winner by 20% or more becomes the default; pick next week's variable. |
 | 2 | Banked videos count. | Under 3 = film extra interviews on Saturday. |
+
+---
+
+## 11. Deep dive: skits where the cap is the punchline
+
+**Why this is the TOFU gold mine:** 8 skit outliers across 3 accounts averaged **8.8x** their account median (Kalaix 22.3x, Torom 8.0x / 7.1x / 6.4x, NAP 6.0x). Their comments weren't about the product ("Holy marketing", "Avi cooked", "The teacher have Aura"), so people shared the joke, and the brand rode along.
+
+### The structure (every skit below follows it)
+
+| Beat | Time | Job |
+| --- | --- | --- |
+| Setup | 0–3s | A situation every UK lad has been in. Cap visible in frame. |
+| Escalation | 3–10s | 2–3 beats where it gets worse, sillier or more serious. |
+| Punchline | 10–15s | The cap resolves it, wins it or is the reason for it. Visual if possible. |
+| Button | 15–18s | One last reaction or line that loops back to the start. No end card. |
+
+### Rules
+
+1. **Never name the cap or price in the skit.** Brand info and "28 made" go in the caption only.
+2. **The joke must work for someone who's never heard of Deira.** If it needs context, it's an advert.
+3. **Logo readable in at least one shot,** cap on screen in the first 3 seconds.
+4. **Visual punchlines beat spoken ones.** Torom's 8.0x punchline had no words and travelled worldwide.
+5. **8–20 seconds. One location. 1–3 people.** Film Hook A and B on the day.
+6. **The cap is the hero, never the butt of the joke.** The lad can look daft; the cap never does.
+
+### Punchline mechanisms
+
+| Mechanism | What happens | Skits below |
+| --- | --- | --- |
+| Reversal | Status flips the moment the cap goes on | 2, 4, 5, 6, 7 |
+| Absurd lengths | Someone protects or treats the cap way over the top | 1, 3, 12 |
+| Recognition | "That's literally my dad / my mum / my mates" | 8 |
+| Escalation | Stakes rise each beat until the cap tops it | 9, 11 |
+| Visual gag | No dialogue needed; the image is the joke | 10 |
+
+### 12 scripts
+
+[X] = your real details. Lengths are targets.
+
+**1. The Lend**
+- **Setup:** front door, 2 people, absurd lengths, low effort, ~16s.
+- **Hook:** S "Can I borrow your cap tonight?" · T "never lend your mate your cap" · V: mate at the door, hand out.
+- **Beats:**
+  - **0–3s:** owner stares, says nothing.
+  - **3–8s:** hands over a printed "rental agreement"; mate signs. Close-up: "return by 11pm. no rain. no kebab."
+  - **8–13s:** cut to "11:02pm". Mate returns the cap. Owner inspects it with a phone torch like a car-hire return.
+  - **13–16s:** finds one crumb. Slowly looks up. **Button:** door shuts in his face.
+- **Hook B:** S "He wants to borrow the grey. Watch this."
+
+**2. The Barber**
+- **Setup:** barber's chair (or a kitchen-chair home trim), 2 people, reversal, medium effort, ~15s.
+- **Hook:** S "Same as him, please." · T "showed my barber a pic 😭" · V: phone held up with a photo of a lad in the grey cap.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–9s:** the barber studies the photo, zooms in, frowns, studies the lad's head.
+  - **9–13s:** quick clipper buzz… the barber just places the grey cap on his head and spins the chair round.
+  - **13–15s:** **Button:** "That'll be twenty-eight quid, bro."
+- **Hook B:** T "when the trim is the cap"
+
+**3. Mum's Wash Day**
+- **Setup:** kitchen, 2 people, absurd lengths, low effort, ~15s.
+- **Hook:** S "Mum… what's in the washing machine?" · T "mum found my cap 😭" · V: the cap on top of a laundry pile.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–7s:** mum shuts the door and reaches for the dial; slow-mo dive across the kitchen.
+  - **7–12s:** he rescues it and hand-washes it in the sink like a newborn, mum watching, arms folded.
+  - **12–15s:** **Button:** he pats it dry and "burps" it over his shoulder.
+- **Hook B:** S "Not the grey, Mum. Anything but the grey."
+
+**4. No Hats On The Pitch**
+- **Setup:** touchline, 2–3 people, reversal, low effort, ~14s.
+- **Hook:** S "No hats on the pitch, lad." · T "sunday league ref be like" · V: ref pointing at the lad's cap.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–7s:** the lad reluctantly hands the grey cap to the ref.
+  - **7–11s:** the ref puts it on and checks his reflection in a phone. Now he's not giving it back.
+  - **11–14s:** **Button:** the lad asks for it back; the ref gives him a yellow card.
+- **Hook B:** T "never giving it to the ref again"
+
+**5. The Interview**
+- **Setup:** desk / office, 2 people, reversal, low effort, ~16s.
+- **Hook:** S "So… why should we hire you?" · T "job interview went sideways" · V: nervous lad across a desk.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–9s:** he fumbles: "I'm… a team player… I've got GCSEs…" The interviewer's pen stops.
+  - **9–13s:** he slowly slides the grey cap across the desk. The interviewer puts it on.
+  - **13–16s:** **Button:** "When can you start?"
+- **Hook B:** S "Interview was going badly. Then I did this."
+
+**6. The Group Chat**
+- **Setup:** bedroom mirror, 1 person + on-screen chat bubbles, reversal, low effort, ~14s.
+- **Hook:** S none · T "sent a fit pic to the group chat" · V: mirror selfie, old cap.
+- **Beats:**
+  - **0–3s:** hook; the photo is sent.
+  - **3–7s:** chat bubbles pop up: "who let him out 😭", "mate…", "delete this".
+  - **7–11s:** he swaps to the grey cap and sends the same pic.
+  - **11–14s:** chat goes silent. Typing dots. Three different lads: "where's that from". **Button:** he leaves them on read.
+- **Hook B:** T "group chat went quiet 💀"
+
+**7. The Door**
+- **Setup:** a doorway (house-party front door), 2 people, reversal, low effort, ~13s.
+- **Hook:** S "Not tonight, lad." · T "bouncer said no 😭" · V: an arm across the door.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–7s:** the lad tries again with sunglasses, then a fake moustache. Same arm.
+  - **7–10s:** he walks off, comes back wearing the grey cap.
+  - **10–13s:** **Button:** the bouncer steps aside and nods: "Evening, sir."
+- **Hook B:** S "Third time lucky. Watch."
+
+**8. Dad Found It**
+- **Setup:** living room, 2 people, recognition, low effort, ~15s.
+- **Hook:** S "Dad… is that my cap?" · T "POV: your dad found your cap" · V: dad on the sofa, grey cap on backwards.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–8s:** dad does finger guns: "Different gravy, innit son?"
+  - **8–12s:** he stands and does a dad dance; the lad's soul leaves his body.
+  - **12–15s:** **Button:** he takes it off… and puts it on the dog / his mum. (Use whoever's game.)
+- **Hook B:** T "dads should not be allowed caps"
+
+**9. The Interrogation**
+- **Setup:** garage or dark room with one lamp, 2–3 people, escalation, low effort, ~18s.
+- **Hook:** S "Where. Did you. Get it." · T "my mates when I turned up in the grey" · V: lamp switched on, lad tied (loosely) to a chair.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–9s:** good cop / bad cop. One offers a Greggs sausage roll; the other slams the table.
+  - **9–14s:** he cracks: "A lad made… twenty-eight of them." Silence.
+  - **14–18s:** **Button:** "TWENTY-EIGHT?!" Both bolt out of the room, leaving him in the chair.
+- **Hook B:** S "They wanted to know where it's from. I didn't fold." (He folds.)
+
+**10. The Window**
+- **Setup:** one shop window on a high street, 1 person, visual gag, low effort, ~12s.
+- **Hook:** S none · T "every shop window on the high street:" · V: lad walking past a window, not looking, old cap.
+- **Beats:**
+  - **0–3s:** he walks past without a glance.
+  - **3–6s:** walks back in the grey cap and does a double take at his reflection.
+  - **6–10s:** walks past again, slower. Again. Now he's posing.
+  - **10–12s:** **Button:** the shop worker inside starts posing back.
+- **Hook B:** T "can't walk past a window in this"
+
+**11. Swap Shop**
+- **Setup:** park bench, 2 people, escalation, low effort, ~16s.
+- **Hook:** S "I'll swap you for it. Name your price." · T "he really wanted the grey" · V: two lads on a bench, one eyeing the other's cap.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–10s:** escalating offers, each with a "no" headshake: his trainers, his PS5 controller, his car keys.
+  - **10–13s:** "My nan's Sunday roast. Every week. For a year." Long pause. He's considering it.
+  - **13–16s:** **Button:** "…Nah." Puts his hood up.
+- **Hook B:** S "What would you swap for this cap?" (then ask the same in the comments)
+
+**12. Rain Check**
+- **Setup:** bus stop, 2 people, absurd lengths, low effort, ~13s (rain = a mate with a spray bottle or hose off frame).
+- **Hook:** S "Is that rain?" · T "when it starts raining and you're in the grey" · V: lad looks up, a drop hits him.
+- **Beats:**
+  - **0–3s:** hook.
+  - **3–7s:** he whips off his jacket… and holds it over the cap only, getting soaked himself.
+  - **7–10s:** his mate, also soaked, stares.
+  - **10–13s:** **Button:** he takes the mate's hood and uses it too: "Grey's not getting wet, bro."
+- **Hook B:** S "Priorities, lad. Priorities."
+
+### Film these 4 first
+
+| Skit | Why first |
+| --- | --- |
+| **6. The Group Chat** | 1 person, 1 room, 20 minutes to film. The "where's that from" punchline is a social-proof moment lads recognise from their own chats. |
+| **9. The Interrogation** | The punchline slips in "28 of them" without pitching. It's the only skit that does TOFU and scarcity at once. |
+| **1. The Lend** | Most sendable: everyone has a mate who'd ask, and a mate who'd refuse. |
+| **8. Dad Found It** | Recognition comedy travels furthest. Every lad has a dad who'd do this. |
+
+### Making a skit series out of it
+
+- **Recurring character:** the cap-obsessed lad who goes to absurd lengths (skits 1, 3, 12). The same actor and the same jacket build "him again 😭" comments.
+- **Re-cuts:** any skit at 2x median gets Hook B posted within 7 days, as Kalaix did (their re-cuts ran 8.8x, 8.6x, 3.3x).
+- **Comment fuel:** end the caption with a question tied to the joke ("would you lend yours? 👀"). The skit gets reach; the question gets comments.
