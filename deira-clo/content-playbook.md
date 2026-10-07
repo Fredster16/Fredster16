@@ -587,7 +587,7 @@ TikTok profile views and IG link taps, plus Shopify grey orders tagged by source
 
 ### Rules
 
-1. **Never name the cap or price in the skit.** Brand info and "28 made" go in the caption only.
+1. **Never say the price or pitch the cap in the skit.** One indirect nod is fine (skit 9's "twenty-eight of them"); everything else goes in the caption.
 2. **The joke must work for someone who's never heard of Deira.** If it needs context, it's an advert.
 3. **Logo readable in at least one shot,** cap on screen in the first 3 seconds.
 4. **Visual punchlines beat spoken ones.** Torom's 8.0x punchline had no words and travelled worldwide.
@@ -625,7 +625,7 @@ TikTok profile views and IG link taps, plus Shopify grey orders tagged by source
   - **0–3s:** hook.
   - **3–9s:** the barber studies the photo, zooms in, frowns, studies the lad's head.
   - **9–13s:** quick clipper buzz… the barber just places the grey cap on his head and spins the chair round.
-  - **13–15s:** **Button:** "That'll be twenty-eight quid, bro."
+  - **13–15s:** **Button:** "That's the trim, bro. Next!"
 - **Hook B:** T "when the trim is the cap"
 
 **3. Mum's Wash Day**
