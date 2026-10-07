@@ -1,6 +1,6 @@
 # Deira Clo — Content Playbook
 
-9 sections: funnel, video pillars, hooks, formats, idea finding, trends, adaptation, 30 ideas, metrics.
+10 sections: funnel, video pillars, hooks, formats, idea finding, trends, adaptation, 30 ideas, metrics, weekly routine.
 
 - Teardown Report (10 competitor accounts, 35 outliers): https://claude.ai/code/artifact/e6f7996c-72a1-480e-942d-c3697066b71f
 - Content Plan, 12–25 Oct 2026: https://claude.ai/code/artifact/c863bfd8-f61b-40b5-8b8a-14509ee35485
@@ -506,3 +506,66 @@ TikTok profile views and IG link taps, plus Shopify grey orders tagged by source
 | Link taps | Sales | The product page or price is the blocker | Show stock, delivery cost and sizing on the page. Post #13 (why £28), #27 (will it fit) and #28 (how to order). |
 | Good TikTok views | Good IG views on the same video | It's not native to IG | Re-upload without the TikTok watermark, use IG audio, set a cover frame, and rewrite the first-line caption. |
 | A whole week drops across all posts | — | Repeated format, wrong time slot or posting gaps | Check the time-test result, change the format mix, and keep 14 a week. Don't delete posts. |
+
+---
+
+## 10. Weekly routine: 4 hours, 14 videos
+
+### Reality check first
+
+**14 videos in 4 hours is about 17 minutes per video for everything: ideas, script, film, edit and post.** That only works if most of the 14 are low-effort formats. Here's what has to give:
+
+| Cut or reduce | Why |
+| --- | --- |
+| Big-cast skits (five-a-side changing room, heist trailer) go from weekly to **once a month**, on a separate 3-hour shoot if you can find it | They need 5–10 people and 2+ hours each. Keep **one simple 2-person skit a week** instead (bus stare, cap roast). |
+| Idea finding goes from 50 to **20 min** | Use sources 1–3 only (your comments, competitor comments, search autofill). |
+| No dedicated trend-dance shoots | Put trending sounds on b-roll you're already filming. |
+| Replying to comments **isn't in the 4 hours** | Budget 5 min a day on your phone (about 35 min a week). If you can't, drop to 12 videos to fund it. Replies matter: comments are a ranking signal and an idea source. |
+
+**My recommendation:** run this routine for 2 weeks. If the quality drops (views under 0.5x median on most posts), go to **10 videos a week** and put the saved time back into skits, the strongest pattern in the teardown.
+
+### The weekly mix that fits
+
+| Type | Per week | Formats | Filmed in |
+| --- | --- | --- | --- |
+| Street interviews | 3 | Rate the Fit, Deira Debates, Worst Cap in [City] | Street session |
+| Simple skit | 1 | 2-person skit (bus stare, cap roast) | Street session |
+| Fit b-roll + trend sound | 2 | Cap glow-up, Sunday League Fits | Street session |
+| Carousels | 4 | Casting call, styling, meme, perk drop | Stills from the street session |
+| Founder to camera / replies | 4 | 28 Made countdown, why £28, reply to a comment, origin story | Desk session + 2-min phone clips |
+| **Total** | **14** | 9 TOFU / 3 MOFU / 2 BOFU | |
+
+### Sessions (240 minutes)
+
+| Session | When | Time | What you do |
+| --- | --- | --- | --- |
+| 1. Review + ideas + scripts | Sunday evening | 50 min | **15:** weekly review (checklist below). **20:** idea finding, sources 1–3, log to the sheet. **15:** pick the 14 from the sheet; write hooks (A and B) and a one-line shot list for each on one page. |
+| 2. Street shoot | Saturday, midday (busy high street) | 75 min | **40:** 5–6 interviews (3 posted, 2–3 banked). **15:** one 2-person skit. **10:** fit b-roll for 2 sound-led clips. **10:** stills for the 4 carousels. |
+| 3. Desk shoot | Sunday, before session 1 | 20 min | 3–4 founder-to-camera clips and replies, one take each, on your phone. Countdown episodes are filmed on the day (see daily below). |
+| 4. Edit | Sunday after session 1, or Monday evening | 75 min | **30:** interviews (3 × 10). **10:** skit. **10:** b-roll clips (template). **15:** carousels (4 × about 4). **10:** founder clips (auto-captions, trim only). |
+| 5. Schedule | Straight after editing | 20 min | Schedule all 14 for the week in TikTok Studio (desktop). Schedule the 7 IG Reels in Meta Business Suite (native upload, no TikTok watermark). Write captions from the one-page script sheet. |
+| Daily | Post days of BOFU countdown | 3 min each (inside the 240) | Film the 28 Made countdown on your phone with the real stock number, and post it straight away. |
+
+**Total:** 50 + 75 + 20 + 75 + 20 = **240 min**. The countdown clips come out of the editing buffer, since they need no edit.
+
+### Batching tips for your setup
+
+1. **Pro camera for b-roll and stills, phone for anything talking-head.** The phone is faster, and founder clips look more real on it.
+2. **Pull carousel photos from 4K video frames** of the street shoot. No separate photo shoot needed.
+3. **Film Hook A and Hook B for every street clip** on the day. When a post hits 2x, the follow-up is already filmed.
+4. **One location, one session.** Stay on one high street and change angle, not place. Bring a second jacket so the same lads look like different clips.
+5. **Wireless clip-on mic + camera on a small gimbal or tripod** so you can run street interviews alone.
+6. **Templates, made once:** caption style, series title card ("rate the fit ep. [X]"), end frame. Every edit becomes drag-and-drop.
+7. **Tape a mark on the shelf and the floor** for the countdown overhead shot, so every episode matches and the gap visibly grows.
+8. **Always keep 3 banked videos.** A rained-off Saturday then doesn't break the week.
+
+### 15-minute weekly review (Sunday, session 1)
+
+| Min | Check | Decision |
+| --- | --- | --- |
+| 3 | Views vs median for all 14 posts. Mark anything at 2x or more, or under 0.5x. | 2x posts get 3 follow-ups logged now. 3 posts under 0.5x in one pillar means swap that pillar's format next week. |
+| 3 | Retention graph of the best and worst post. | Note where people drop: first 2s = hook, middle = pace, end = payoff (section 9). |
+| 2 | Share rate of the top 3 posts. | 0.5% or more = make 2 more in that format. |
+| 3 | Grey caps sold this week + profile views. | Under 2 sold = 3 BOFU posts next week. Rising profile views but no taps = fix the bio link and pin the countdown. |
+| 2 | This week's test variable (time slot, hook style). | Winner by 20% or more becomes the default; pick next week's variable. |
+| 2 | Banked videos count. | Under 3 = film extra interviews on Saturday. |
