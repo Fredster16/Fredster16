@@ -202,4 +202,60 @@ The cap's price is never mentioned. This is TOFU; the link-in-bio push comes lat
 
 ---
 
-<!-- Next sections (5–9) get appended below. -->
+## 5. Weekly idea-finding process (50 minutes)
+
+Run it Sunday night, straight after the weekly review. The target is 10 new logged ideas a week; at 14 posts a week, the backlog plus series episodes and follow-ups keeps you ahead.
+
+### Where to look
+
+| # | Source | Time | Exactly what to look for |
+| --- | --- | --- | --- |
+| 1 | Your own comments and DMs (TikTok + IG) | 10 min | Any question asked 2+ times. Every objection (price, delivery, sizing, "is it legit"). Lines worth quoting on screen ("different gravy", "that's tidy"). |
+| 2 | Competitor outlier comments: last week's top post from Zororo, NAP and Kalaix, sorted by likes | 10 min | Questions the brand didn't answer, price complaints ("too expensive", "who has money for ts"), "day 1 of asking for a free…", restock requests, "song name?". Each one is a reply video you can make. |
+| 3 | TikTok search bar autofill | 5 min | Type "cap", "how to wear a cap", "best caps uk", "caps for men", "fitted vs". Note every autofill and the "others searched for" box; each is a question people search with no good answer. |
+| 4 | TikTok Creative Center / Discover, UK region | 5 min | Sounds rising but still under 50K posts, marked "Approved for Business Use". Formats lads are copying this week. Skip anything at peak. |
+| 5 | Reddit: r/malefashionadvice, r/streetwearstartup, UK city subreddits | 10 min | Threads on "is [brand] worth it", cap fit and brim questions, and complaints about small brands (late delivery, poor quality). Those complaints are your objections. |
+| 6 | Competitor product reviews (their Shopify review sections, Trustpilot where they have one) | 5 min | What buyers praise (shows what to prove on camera) and what they complain about (shows what to promise and show). |
+| 7 | Your own analytics: last week's top 2 posts | 5 min | What the comments reacted to. Any post at 2x median or more gets 3 follow-up ideas logged now: same driver, new angle. |
+
+### 3-question filter
+
+Ask each one; if you can't answer quickly, the answer is no.
+
+1. **Would a lad send this to his mate?** If not, it won't travel.
+2. **Is the cap in it without being the pitch, or does it kill a real objection?** If it's neither, it's an advert.
+3. **Can we film it this week with what we've got?** No UGC, one shoot day.
+
+**3 yes = film it this week. 2 = backlog. 0–1 = bin it.**
+
+### How to log ideas
+
+One Google Sheet (or Notes table), one row per idea, filled in at the moment you find it:
+
+| Date | Raw quote (verbatim) + link | Insight (what they really mean) | Idea | Pillar | Stage | Format | Filter score (0–3) | Status | Result (x median) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+Rules:
+
+- Always paste the raw quote, never a summary. The exact wording is often the hook.
+- Status moves backlog → scheduled → filmed → posted. Never delete a row; "posted" rows with a result are your best idea source.
+- If the backlog drops under 15 rows, go back to sources 1 and 2 first.
+
+### Worked example
+
+1. **Raw comment** (the type that appears under competitor posts; Torom's 8.0x skit had "Im not paying 114 dollars for a fucking shirt 😭✌️"). Cap version: *"£28 for a cap?? I'll get one off the market for a fiver 😭"*
+2. **Insight:** they're not against spending; they can't see the difference, and they don't want to look mugged off in front of their mates. That's the number one objection, said out loud, in their own words.
+3. **Filter:** sendable (yes, the "mugged off" debate), objection killer (yes), filmable this week (yes, a table and two caps). 3 out of 3, so it's filmed this week.
+4. **Finished concept:** reply to a comment with a product test (MOFU, 20–25s).
+   - **Hook:** S "Replying to the lad who says it's a fiver at the market." · T "replying: '£28 for a cap??'" · V: the comment sticker over two caps on a table.
+   - **0–3s:** hook, holding both caps.
+   - **3–15s:** three quick tests on both caps: stitch pull, crown press, inside label. Show the results; don't claim them.
+   - **15–20s:** "Fiver one's done after a month. Ours is still tidy in a year. Your call."
+   - **20–23s:** "Link's in the bio if you want to check it yourself."
+   - **Caption:** "mugged off or worth it? be honest 👇"
+
+Only use the "a year" line if you've tested it; otherwise swap in what you can actually show.
+
+---
+
+<!-- Next sections (6–9) get appended below. -->
