@@ -370,4 +370,63 @@ Source for all three: [SocialPilot, 25 Sep – 10 Oct 2026](https://www.socialpi
 
 ---
 
-<!-- Next sections (8–9) get appended below. -->
+## 8. 30 video ideas
+
+★ = the top 5 to film first. 19 of the 30 are low effort. [X] = use the real number on the day.
+
+### TOFU — get found
+
+| # | Hook | Format | One-line concept | Effort |
+| --- | --- | --- | --- | --- |
+| 1 ★ | "POV: you turn up to five-a-side thinking you're different" | Skit | The whole team, ref included, walks in wearing the grey cap. | M |
+| 2 ★ | "Rate your fit out of ten, mate." | Street interview | Rate the Fit: a lad rates his fit, swaps in the grey cap, re-rates. | M |
+| 3 | "Looking for the worst cap in Leeds. Found it." | Street interview | Worst Cap in [City]: swap a battered cap for the grey; the old one goes on the wall of shame. | M |
+| 4 | "Your cap's from the market, lad." | Skit | Cap-roast rap battle where the Deira cap wins the last bar. | M |
+| 5 | "Cap forwards or backwards, lad?" | Street interview | Deira Debates: one cap argument per city. | L |
+| 6 | "cap check… 👀" (on-screen) | B-roll + early trend sound | Cap glow-up: battered cap to the grey cap on the beat drop. | L |
+| 7 | "sunday league fits" (on-screen) | B-roll | Pitchside fits, studs on, grey cap, touchline. | L |
+| 8 | "If you bend your brim like a banana, stop." | Founder to camera | 3 cap mistakes every lad makes, fixed in 20 seconds. | L |
+| 9 | "recreated it in the grey 😭" (on-screen) | Carousel | Famous UK memes recreated by lads in the grey cap. | M |
+| 10 | "Why's everyone staring?" | Skit | The whole bus clocks the cap; a tap on the shoulder at the end. | M |
+
+### MOFU — earn the £28
+
+| # | Hook | Format | One-line concept | Effort |
+| --- | --- | --- | --- | --- |
+| 11 ★ | "This one's £8. This one's £28. Spot it." | Product test | Stitch pull, crown press and inside label vs an unbranded market cap. | M |
+| 12 ★ | "would you model for Deira?" (on-screen) | Carousel | Casting call: comment "me" + your city. | L |
+| 13 | "Replying: 'why's it £28 tho?'" | Reply to a comment | Where every pound of the cap goes, in 20 seconds. | L |
+| 14 | "Someone's just bought a cap at 2am. Who are you?" | Founder to camera | Live reaction to a real order notification. | L |
+| 15 | "Got to ask him something. Wish me luck, lads." | Skit | Model proposal: walk up to a casting-call commenter with a "will you model for Deira?" sign. | M |
+| 16 | "Grey or black? Comment one word." | Carousel | Colourway vote: the grey vs our other colour on the same lads. | L |
+| 17 | "Watch what happens when it rains at five-a-side." | B-roll | Abuse test: rain, mud and a wash. Show the real result, no claims. | M |
+| 18 | "Day one of asking for a free cap? Go on then." | Reply to a comment | Giveaway rules for one grey: tag 3 mates, winner picked live. | L |
+| 19 | "Ready? We've got sixty seconds." | Cinematic trailer | "Operation 28": masked lads 'steal' the last grey caps. | H |
+| 20 | "Why a lad from [town] started a cap brand, not a hoodie brand." | Founder to camera | Origin story: why caps, why the grey, why 28. | L |
+
+### BOFU — get the link tap
+
+| # | Hook | Format | One-line concept | Effort |
+| --- | --- | --- | --- | --- |
+| 21 ★ | "We made 28 grey caps. There's [X] left." | Founder to camera | 28 Made countdown: the same overhead shelf shot every episode, so the gap grows. | L |
+| 22 | "Only 28 of you will ever own this." | Founder to camera | The 28 List: every buyer gets a number, list shown with permission. | L |
+| 23 | "The grey isn't coming back. Ever." | Founder to camera | The no-restock answer to restock comments (only if it's true). | L |
+| 24 | "7pm. Five slots. Free next-day." | Carousel | A time-boxed perk drop, not a discount. | L |
+| 25 | "Number [X] of 28 just went to [town]." | Carousel | Buyer spotlight: a real buyer in his grey, shared with permission. | L |
+| 26 | "Packing number [X] of 28 right now." | B-roll | Packing a real grey order with a handwritten number card: "yours could be next." | L |
+| 27 | "Will it fit my head? Watch this." | B-roll + voiceover | The grey on 3 different head sizes, strap adjusted on camera. | L |
+| 28 | "How to get the grey before it's gone, in 20 seconds." | Screen recording + voiceover | Bio link → product page with live stock → checkout, on a phone. | L |
+| 29 | "Ordered Monday. Did it make it to [town] by Wednesday?" | B-roll | Follow one real order from packing to doorstep, filmed by us. | M |
+| 30 | "Wear it with what you've already got." | Carousel | The grey styled 5 ways with clothes lads already own: trackies, jeans, kit, work gear. | L |
+
+### Why these 5 first
+
+- **#1** five-a-side skit: skits were the strongest pattern in the teardown (8.8x).
+- **#2** Rate the Fit: builds on your existing interview strength and starts a weekly series.
+- **#11** £8 vs £28: kills the number one objection with proof.
+- **#21** 28 Made countdown: the most direct route to selling the 28.
+- **#12** casting call: low effort, Bulley's version did 12x, and the commenters it brings in become the cast for #15 and future shoots.
+
+---
+
+<!-- Next section (9) gets appended below. -->
