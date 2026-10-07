@@ -258,4 +258,68 @@ Only use the "a year" line if you've tested it; otherwise swap in what you can a
 
 ---
 
-<!-- Next sections (6–9) get appended below. -->
+## 6. Spotting trends worth jumping on
+
+Rule: take the **format or emotion** of a trend, not the trend itself. A cap brand doing a dance badly loses to a cap brand that steals the dance's structure and makes it about lads and caps.
+
+### Where to find trends early
+
+| Where | What to check | Signal that it's early |
+| --- | --- | --- |
+| TikTok Creative Center → Trends (region: UK) | Songs, hashtags and creators; tick "new to top 100" | New entries climbing, not sitting at #1. Filter by "Approved for Business Use". |
+| A sound's own page on TikTok | Number of videos using it | Roughly under 50K posts and rising (rule of thumb, not a hard line). |
+| Your For You page, 10 min a day as a lad aged 14–30 would scroll | Formats you see 3+ times in a week from different accounts | Seen 3+ times this week, rarely last week. |
+| Competitor and adjacent accounts (Kalaix, Torom, Zororo, Bulley) | Sounds and formats in their newest posts, especially outliers | A competitor's outlier on a sound you haven't seen elsewhere yet ("tesla (slowed electro mix)" carried 5 teardown outliers). |
+| Instagram Reels audio | The ↗ trending arrow next to the audio name | Arrow present, low reel count. |
+| Weekly trend round-ups ([SocialPilot](https://www.socialpilot.co/blog/tiktok-trends), [Metricool UK](https://metricool.com/tiktok-songs-uk/)) | Anything marked "early" or "rising" | "Early" label; ignore "peak" unless you have a twist. |
+
+### 60-second fit checklist
+
+Score each one yes or no. **5/5 = film it within 48 hours. 4/5 = only with a strong twist. 3 or fewer = ignore.**
+
+1. **Cap on a head, naturally?** Can the cap be in frame without forcing it?
+2. **Would our lads do it?** Would a UK lad aged 14–30 film or send this himself, or is it someone else's world?
+3. **Early, not peaked?** Rising, under about 50K posts, not in every "top trends" list yet.
+4. **Filmable in 48 hours?** With our camera, mates and locations, no UGC.
+5. **Safe and usable?** Approved for business use, and nothing near tragedy, politics or anything that makes the brand look desperate.
+
+### How long you've got (rule of thumb, not measured)
+
+| Trend type | Window | What to do |
+| --- | --- | --- |
+| Trending sound | About 1–3 weeks from early to peak | Post in the rising phase. After peak, only use it with a clear twist. |
+| Meme format | About 1–2 weeks | Same week or skip. Late memes read as cringe to 14–30s. |
+| Seasonal or cultural moment (Halloween, Bonfire Night, Black Friday) | Fixed date; content works from about 7 days before | Plan it in the calendar a week ahead. |
+| Evergreen format (POV, rate it, versus, reply-to-comment) | Never dies | Use any week. This is the backbone; trends are extra. |
+
+### 3 unrelated trends turned into Deira Clo videos
+
+Source for all three: [SocialPilot, 25 Sep – 10 Oct 2026](https://www.socialpilot.co/blog/tiktok-trends).
+
+**1. Costume reveal (Halloween)**
+
+1. **Original:** start in everyday clothes, then cut to the full costume on a drum drop.
+2. **Format and emotion:** before → after transformation, landing exactly on the beat. It's the satisfaction of the reveal.
+3. **Our version: "Cap glow-up".** A lad in a battered old cap and a scruffy fit; hand over the lens; on the drop, full fit with the grey Deira cap.
+   - **Hook:** S none (sound-led) · T "cap check… 👀" · V: close-up of a faded, bent cap.
+   - **Stage / format:** TOFU, b-roll, low effort. Film it in the Saturday pitch-day batch.
+
+**2. #CityTasteTest (food niche)**
+
+1. **Original:** honest local food reviews with a location tag.
+2. **Format and emotion:** honest rating + local pride. People back their own city and argue with others.
+3. **Our version: "City Fit Test".** Rate lads' fits on a different UK high street each week; tag the location; cap swap at the end. It slots straight into the Rate the Fit series.
+   - **Hook:** S "Rating fits in [city]. Be honest, they're not ready." · T "city fit test: [city] 📍" · V: street sign, then a mic pushed at the first lad.
+   - **Stage / format:** TOFU, street interview, medium effort. A new city each week, so comments can turn into "do [my city] next."
+
+**3. Homecoming proposal reveal (US school culture)**
+
+1. **Original:** build suspense with a poster or prop, then reveal the answer.
+2. **Format and emotion:** a public ask, suspense, then a yes/no reaction.
+3. **Our version: "Model proposal".** Walk up to a lad who commented "me" on the casting call, holding a sign: "will you model for Deira?" Film his reaction and hand him the grey cap.
+   - **Hook:** S "Got to ask him something. Wish me luck, lads." · T "asking him to be our model 😭" · V: back of the sign, walking toward him.
+   - **Stage / format:** TOFU, skit, medium effort. It pays off the casting-call carousel (#3 in the plan) and proves the call was real.
+
+---
+
+<!-- Next sections (7–9) get appended below. -->
