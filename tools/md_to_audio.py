@@ -1,9 +1,9 @@
 """Turn a book-reduction .md (or .txt) file into an MP3 with free Microsoft neural voices.
 
 Usage:
-    python3 md_to_audio.py FILE [--voice en-GB-RyanNeural] [--rate -5%] [--preview]
+    python3 md_to_audio.py FILE [--voice en-GB-RyanNeural] [--rate -5%] [--out OUT.mp3] [--preview]
 
-The MP3 is saved next to FILE with the same name. --preview prints the
+The MP3 is saved next to FILE with the same name, unless --out gives another path. --preview prints the
 cleaned text instead of making audio, so you can check what will be read.
 Needs: python3 -m pip install edge-tts
 """
@@ -70,6 +70,7 @@ def main() -> None:
     parser.add_argument("file", type=Path)
     parser.add_argument("--voice", default="en-GB-RyanNeural")
     parser.add_argument("--rate", default="+0%", help="e.g. -10%% slower, +10%% faster")
+    parser.add_argument("--out", type=Path, help="where to save the MP3 (default: next to FILE)")
     parser.add_argument("--preview", action="store_true", help="print cleaned text, make no audio")
     args = parser.parse_args()
 
@@ -80,7 +81,7 @@ def main() -> None:
         print(text)
         return
 
-    out = args.file.with_suffix(".mp3")
+    out = args.out.expanduser() if args.out else args.file.with_suffix(".mp3")
     print(f"Making {out.name} ({len(text.split()):,} words, about {len(text.split()) // 150} min of audio)...")
     print("This can take a few minutes with no further output.")
     asyncio.run(speak(text, args.voice, args.rate, out))
