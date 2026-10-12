@@ -1,5 +1,8 @@
 # 6 Degrees: series concept and intro script (Video 1)
 
+> **Superseded for Video 1:** the current Video 1 and Video 2 scripts are in `six-degrees-videos-1-2.md`. The mechanics, shot list and link-episode template below still apply.
+
+
 Draft 1, 9 Oct 2026. Built on `content-research/reference-creators-2026-10-09.md`. Anything in `[BRACKETS]` is a fact or a line only you can fill. Nothing in here is made up.
 
 ---
