@@ -227,7 +227,6 @@ Every book shown on a slide in the TikTok series "Right Wing Book Club" by [@alb
 - **7.88/10** — *The Iliad* — Homer (540,194 ratings) · ep #74, #77, #81, #84, #87, #100
 - **7.88/10** — *The Decay of Lying* — Oscar Wilde (2,776 ratings) · ep #57
 - **7.88/10** — *The Revolt of the Elites and the Betrayal of Democracy* — Christopher Lasch (1,597 ratings) · ep #55, #59
-- **7.88/10** — *On Friendship* — Cicero (1,191 ratings) · ep #74
 - **7.88/10** — *Man and Technics: A Contribution to a Philosophy of Life* — Oswald Spengler (1,105 ratings) · ep #8, #42, #54, #58, #62, #69, #88
 - **7.88/10** — *Fascism: Style and Spectacle (Fascist Spectacle: The Aesthetics of Power)* — Simonetta Fraquelli & Matthew Affron (77 ratings) ⚠️ · ep #56
 - **7.88/10** — *The Greater Britain* — Oswald Mosley (68 ratings) ⚠️ · ep #5
@@ -257,6 +256,7 @@ Every book shown on a slide in the TikTok series "Right Wing Book Club" by [@alb
 - **7.74/10** — *East and West* — René Guénon (414 ratings) · ep #39, #48
 - **7.72/10** — *The Odyssey* — Homer (1,294,799 ratings) · ep #81
 - **7.72/10** — *The Fourth Turning* — William Strauss & Neil Howe (8,060 ratings) · ep #65, #71
+- **7.72/10** — *On Friendship* — Cicero (3,660 ratings) · ep #74
 - **7.72/10** — *How to Think Seriously About the Planet* — Roger Scruton (456 ratings) · ep #36
 - **7.72/10** — *Legality and Legitimacy* — Carl Schmitt (139 ratings) · ep #5
 - **7.72/10** — *Hinduism and Buddhism* — Ananda K. Coomaraswamy (123 ratings) · ep #16, #94
