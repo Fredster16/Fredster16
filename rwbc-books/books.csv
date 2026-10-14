@@ -1,0 +1,403 @@
+rank,title,author,score_out_of_10,goodreads_avg_out_of_5,goodreads_ratings,episodes,times_featured,goodreads_url
+1,"Escolios a un Texto Implícito, Vol. II",Nicolás Gómez Dávila,9.30,4.65,127,#20,1,https://www.goodreads.com/book/show/56380815-escolios-a-un-texto-impl-cito-vol-i-e-ii
+2,Into the Darkness,Lothrop Stoddard,9.24,4.62,84,#17,1,https://www.goodreads.com/book/show/2270973.Into_the_Darkness
+3,Notas,Nicolás Gómez Dávila,9.14,4.57,30,#20,1,https://www.goodreads.com/book/show/2336962.Notas
+4,The Spirit of the Liturgy,Romano Guardini,9.12,4.56,2386,#24,1,https://www.goodreads.com/book/show/42748671-the-spirit-of-the-liturgy
+5,Embrace the Sun,Marc Sorenson & William Grant,9.00,4.50,18,#91,1,https://www.goodreads.com/book/show/40505654-embrace-the-sun
+6,Scholia to an Implicit Text,Nicolás Gómez Dávila,8.98,4.49,145,#20,1,https://www.goodreads.com/book/show/23597243-scholia-to-an-implicit-text
+7,The Sea of Fertility (tetralogy),Yukio Mishima,8.90,4.45,661,"#6, #26",2,https://www.goodreads.com/book/show/171087.The_Sea_of_Fertility
+8,The Emerald Tablet of Hermes,Hermes Trismegistus,8.88,4.44,902,"#95, #100",2,https://www.goodreads.com/book/show/4305493-the-emerald-tablet-of-hermes-the-kybalion
+9,The Gift of Good Land,Wendell Berry,8.86,4.43,587,#92,1,https://www.goodreads.com/book/show/207933.The_Gift_of_Good_Land
+10,The Crisis of Modernity,Augusto Del Noce,8.84,4.42,102,#24,1,https://www.goodreads.com/book/show/22210321-the-crisis-of-modernity-mcgill-queen-s-studies-in-the-history-of-ideas
+11,The Great Triad,René Guénon,8.82,4.41,110,#5,1,https://www.goodreads.com/book/show/424141.The_Great_Triad
+12,Mirror of the Intellect,Titus Burckhardt,8.82,4.41,34,#9,1,https://www.goodreads.com/book/show/675877.Mirror_of_the_Intellect
+13,On Genetic Interests,Frank Salter,8.82,4.41,32,"#46, #60, #64, #86",4,https://www.goodreads.com/book/show/2974095-on-genetic-interests
+14,The Brothers Karamazov,Fyodor Dostoevsky,8.80,4.40,418602,#28,1,https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov
+15,Gates of Fire,Steven Pressfield,8.80,4.40,46303,#13,1,https://www.goodreads.com/book/show/1305.Gates_of_Fire
+16,Nutrition and Physical Degeneration,Weston A. Price,8.80,4.40,2323,#91,1,https://www.goodreads.com/book/show/544354.Nutrition_and_Physical_Degeneration
+17,The Enemy of Europe,Francis Parker Yockey,8.80,4.40,77,"#6, #18, #22",3,https://www.goodreads.com/book/show/1246246.The_Enemy_of_Europe
+18,"Discourses, Fragments, Handbook",Epictetus,8.78,4.39,13342,#81,1,https://www.goodreads.com/book/show/18189134-discourses-fragments-handbook
+19,The Coming Caesars,Amaury de Riencourt,8.78,4.39,101,#69,1,https://www.goodreads.com/book/show/18709685-the-coming-caesars
+20,Witness,Whittaker Chambers,8.76,4.38,2456,#66,1,https://www.goodreads.com/book/show/950143.Witness
+21,Mere Christianity,C.S. Lewis,8.74,4.37,477261,#28,1,https://www.goodreads.com/book/show/11138.Mere_Christianity
+22,Aion: Researches into the Phenomenology of the Self,C. G. Jung,8.74,4.37,1766,#96,1,https://www.goodreads.com/book/show/20628518-aion
+23,Alchemy: An Introduction to the Symbolism and the Psychology,Marie-Louise von Franz,8.74,4.37,888,#96,1,https://www.goodreads.com/book/show/566087.Alchemy
+24,The Master and His Emissary,Iain McGilchrist,8.72,4.36,4470,#83,1,https://www.goodreads.com/book/show/6968772-the-master-and-his-emissary
+25,Dynamics of World History,Christopher Dawson,8.72,4.36,109,#24,1,https://www.goodreads.com/book/show/1298624.Dynamics_Of_World_History
+26,The Underlying Religion: An Introduction to the Perennial Philosophy,Martin Lings & Clinton Minnaar (eds.),8.72,4.36,47,#31,1,https://www.goodreads.com/book/show/1776741.The_Underlying_Religion
+27,Giovanni Gentile: Philosopher of Fascism,A. James Gregor,8.72,4.36,39,#43,1,https://www.goodreads.com/book/show/188367.Giovanni_Gentile
+28,The King's Two Bodies,Ernst H. Kantorowicz,8.70,4.35,525,#97,1,https://www.goodreads.com/book/show/356630.The_King_s_Two_Bodies
+29,The State,Anthony de Jasay,8.70,4.35,55,#70,1,https://www.goodreads.com/book/show/141977414-the-state-by-de-jasay-27-feb-1986-paperback
+30,Revolution from the Middle,Samuel T. Francis,8.70,4.35,20,#27,1,https://www.goodreads.com/book/show/3397320-revolution-from-the-middle
+31,Hermetica,Hermes Trismegistus,8.68,4.34,1069,#95,1,https://www.goodreads.com/book/show/681667.Hermetica
+32,Giordano Bruno and the Hermetic Tradition,Frances A. Yates,8.68,4.34,717,#95,1,https://www.goodreads.com/book/show/230361.Giordano_Bruno_and_the_Hermetic_Tradition
+33,The Path of Cinnabar,Julius Evola,8.68,4.34,164,"#49, #63, #68, #79",4,https://www.goodreads.com/book/show/6773767-the-path-of-cinnabar
+34,Leviathan and Its Enemies,Samuel T. Francis,8.68,4.34,145,#27,1,https://www.goodreads.com/book/show/31571379-leviathan-and-its-enemies
+35,The Culture of Critique,Kevin MacDonald,8.68,4.34,96,"#46, #72",2,https://www.goodreads.com/book/show/209146289-the-culture-of-critique
+36,The Unsettling of America,Wendell Berry,8.66,4.33,7085,#92,1,https://www.goodreads.com/book/show/146191.The_Unsettling_of_America
+37,Jung and the Alchemical Imagination,Jeffrey Raff,8.66,4.33,212,#96,1,https://www.goodreads.com/book/show/729910.Jung_and_the_Alchemical_Imagination
+38,Letters from a Stoic,Seneca,8.64,4.32,62050,#13,1,https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic
+39,Psychology and Alchemy,C. G. Jung,8.64,4.32,2609,#96,1,https://www.goodreads.com/book/show/297544.Psychology_and_Alchemy
+40,The Reign of Quantity and the Signs of the Times,René Guénon,8.64,4.32,780,"#5, #16, #31, #39, #48, #54, #58, #68, #71, #79, #80, #82, #88, #93",14,https://www.goodreads.com/book/show/560958.The_Reign_of_Quantity_the_Signs_of_the_Times
+41,Six Glorious Epochs of Indian History,Vinayak Damodar Savarkar,8.64,4.32,376,#14,1,https://www.goodreads.com/book/show/51747437-six-glorious-epochs-of-indian-history
+42,Demons,Fyodor Dostoevsky,8.62,4.31,68445,#28,1,https://www.goodreads.com/book/show/5695.Demons
+43,The Technological Society,Jacques Ellul,8.62,4.31,1330,#53,1,https://www.goodreads.com/book/show/274827.The_Technological_Society
+44,The Doctrine of Awakening,Julius Evola,8.62,4.31,382,"#9, #16, #19, #34, #39, #68, #79, #80, #85, #93, #96",11,https://www.goodreads.com/book/show/424269.The_Doctrine_of_Awakening
+45,The Dispossessed Majority,Wilmot Robertson,8.62,4.31,67,"#72, #86",2,https://www.goodreads.com/book/show/6619732-the-dispossessed-majority
+46,The Door in the Sky,Ananda K. Coomaraswamy,8.62,4.31,26,#94,1,https://www.goodreads.com/book/show/1088493.The_Door_in_the_Sky
+47,The Populist Delusion,Neema Parvini,8.60,4.30,596,#70,1,https://www.goodreads.com/book/show/60832788-the-populist-delusion
+48,Crime and Punishment,Fyodor Dostoevsky,8.58,4.29,1167251,#28,1,https://www.goodreads.com/book/show/7144.Crime_and_Punishment
+49,Gold in the Furnace,Savitri Devi,8.58,4.29,58,"#9, #23",2,https://www.goodreads.com/book/show/921688.Gold_in_the_Furnace
+50,American Ideals,Theodore Roosevelt,8.58,4.29,14,#13,1,https://www.goodreads.com/book/show/2802200-american-ideals
+51,The One and the Many,W. Norris Clarke,8.56,4.28,284,#34,1,https://www.goodreads.com/book/show/449135.The_One_and_the_Many
+52,The Shock of History,Dominique Venner,8.56,4.28,165,#20,1,https://www.goodreads.com/book/show/26207362-the-shock-of-history
+53,The Ethnic Phenomenon,Pierre van den Berghe,8.56,4.28,47,#86,1,https://www.goodreads.com/book/show/273461.The_Ethnic_Phenomenon
+54,Meditations,Marcus Aurelius,8.54,4.27,385265,"#1, #13, #37",3,https://www.goodreads.com/book/show/233411514-meditations
+55,Discourses,Epictetus,8.54,4.27,5694,#13,1,https://www.goodreads.com/book/show/21955357-discourses-of-epictetus
+56,Hollywood Party,Kenneth Lloyd Billingsley,8.54,4.27,66,#72,1,https://www.goodreads.com/book/show/2498107.Hollywood_Party
+57,The Gay Science,Friedrich Nietzsche,8.52,4.26,21579,"#28, #33, #85, #87",4,https://www.goodreads.com/book/show/94578.The_Gay_Science
+58,The Machiavellians: Defenders of Freedom,James Burnham,8.52,4.26,2186,"#4, #55, #59, #64",4,https://www.goodreads.com/book/show/1270379.The_Machiavellians
+59,The Making of Europe,Christopher Dawson,8.52,4.26,155,#24,1,https://www.goodreads.com/book/show/552381.The_Making_of_Europe
+60,Spiritual Perspectives and Human Facts,Frithjof Schuon,8.52,4.26,39,#39,1,https://www.goodreads.com/book/show/4547190-spiritual-perspectives-and-human-facts
+61,Main Currents of Marxism,Leszek Kołakowski,8.50,4.25,463,#66,1,https://www.goodreads.com/book/show/143294.Main_Currents_Of_Marxism
+62,Symbols of Sacred Science,René Guénon,8.50,4.25,393,#99,1,https://www.goodreads.com/book/show/424128.Symbols_of_Sacred_Science
+63,Runaway Horses,Yukio Mishima,8.48,4.24,9785,"#14, #20",2,https://www.goodreads.com/book/show/62812.Runaway_Horses
+64,The National System of Political Economy,Friedrich List,8.48,4.24,148,"#15, #62",2,https://www.goodreads.com/book/show/19262039-the-national-system-of-political-economy
+65,The Enchiridion,Epictetus,8.46,4.23,39260,#13,1,https://www.goodreads.com/book/show/16255653-the-enchiridion-of-epictetus---a-classic-handbook-of-stoic-philosophy-an
+66,"Human, All Too Human",Friedrich Nietzsche,8.46,4.23,11028,#33,1,https://www.goodreads.com/book/show/451565.Human_All_Too_Human
+67,"Churchill, Hitler, and ""The Unnecessary War""",Patrick Buchanan,8.46,4.23,2336,#10,1,https://www.goodreads.com/book/show/2258833.Churchill_Hitler_and_The_Unnecessary_War_
+68,"Alchemy: Science of the Cosmos, Science of the Soul",Titus Burckhardt,8.46,4.23,259,"#94, #95",2,https://www.goodreads.com/book/show/283672.Alchemy
+69,Contributions to Philosophy,Martin Heidegger,8.46,4.23,222,#8,1,https://www.goodreads.com/book/show/447090.Contributions_to_Philosophy_From_Enowning_
+70,The World as Will and Representation,Arthur Schopenhauer,8.44,4.22,11507,#37,1,https://www.goodreads.com/book/show/19506.The_World_as_Will_and_Representation_Volume_I
+71,Life at the Bottom: The Worldview That Makes the Underclass,Theodore Dalrymple,8.44,4.22,4293,#10,1,https://www.goodreads.com/book/show/117161.Life_at_the_Bottom
+72,Man and His Becoming According to the Vedanta,René Guénon,8.44,4.22,250,"#5, #16, #48",3,https://www.goodreads.com/book/show/424126.Man_and_His_Becoming_According_to_the_Vedanta
+73,Man's Search for Himself,Rollo May,8.42,4.21,4338,#79,1,https://www.goodreads.com/book/show/665852.Man_s_Search_for_Himself
+74,The Myth of the Eternal Return (Cosmos and History),Mircea Eliade,8.42,4.21,3513,"#97, #99",2,https://www.goodreads.com/book/show/28025.The_Myth_of_the_Eternal_Return_or_Cosmos_and_History
+75,The English and Their History,Robert Tombs,8.42,4.21,2905,"#81, #89",2,https://www.goodreads.com/book/show/23569457-the-english-and-their-history
+76,The Fate of Empires and Search for Survival,Sir John Glubb,8.42,4.21,774,"#65, #71",2,https://www.goodreads.com/book/show/6177860-the-fate-of-empires-and-search-for-survival
+77,The Nature and Art of Workmanship,David Pye,8.42,4.21,196,#92,1,https://www.goodreads.com/book/show/319901.The_Nature_and_Art_of_Workmanship
+78,Histoire et tradition des Européens,Dominique Venner,8.42,4.21,29,#20,1,https://www.goodreads.com/book/show/1860056.Histoire_et_Tradition_des_Europ_ens_
+79,Orthodoxy,G. K. Chesterton,8.40,4.20,43969,#34,1,https://www.goodreads.com/book/show/87665.Orthodoxy
+80,The Seven Military Classics of Ancient China,Ralph D. Sawyer (trans.),8.40,4.20,614,#8,1,https://www.goodreads.com/book/show/666656.The_Seven_Military_Classics_of_Ancient_China
+81,Spiritual Authority and Temporal Power,René Guénon,8.40,4.20,232,#97,1,https://www.goodreads.com/book/show/7626575-spiritual-authority-temporal-power
+82,A People That Shall Dwell Alone,Kevin MacDonald,8.40,4.20,133,#46,1,https://www.goodreads.com/book/show/182135.A_People_That_Shall_Dwell_Alone
+83,Mitra-Varuna,Georges Dumézil,8.40,4.20,112,#99,1,https://www.goodreads.com/book/show/2569353-mitra-varuna
+84,Formalism in Ethics and Non-Formal Ethics of Values,Max Scheler,8.40,4.20,46,#24,1,https://www.goodreads.com/book/show/982337.Formalism_in_Ethics_and_Non_Formal_Ethics_of_Values
+85,Nourishing Traditions,Sally Fallon Morell,8.38,4.19,14183,#91,1,https://www.goodreads.com/book/show/117835.Nourishing_Traditions
+86,Desert Solitaire,Edward Abbey,8.36,4.18,56437,#91,1,https://www.goodreads.com/book/show/214614.Desert_Solitaire
+87,The Lightning and the Sun,Savitri Devi,8.36,4.18,284,"#9, #23, #47, #65, #71, #75, #80, #85, #88, #93",10,https://www.goodreads.com/book/show/17784773-the-lightning-and-the-sun
+88,The Multiple States of the Being,René Guénon,8.36,4.18,173,"#48, #68, #79, #82, #93",5,https://www.goodreads.com/book/show/424136.The_Multiple_States_of_the_Being
+89,Amusing Ourselves to Death,Neil Postman,8.34,4.17,41910,#72,1,https://www.goodreads.com/book/show/74034.Amusing_Ourselves_to_Death
+90,Storm of Steel,Ernst Jünger,8.34,4.17,23713,"#2, #6, #20, #74, #75, #76, #84, #90, #98, #100",10,https://www.goodreads.com/book/show/240485.Storm_of_Steel
+91,The End of the Modern World,Romano Guardini,8.34,4.17,327,#24,1,https://www.goodreads.com/book/show/511401.The_End_of_the_Modern_World
+92,Religion and the Rise of Western Culture,Christopher Dawson,8.34,4.17,295,#24,1,https://www.goodreads.com/book/show/766229.Religion_and_the_Rise_of_Western_Culture
+93,The Tradition of Household Spirits,Claude Lecouteux,8.34,4.17,260,#52,1,https://www.goodreads.com/book/show/15955010-the-tradition-of-household-spirits
+94,Notes from Underground,Fyodor Dostoevsky,8.32,4.16,263634,#28,1,https://www.goodreads.com/book/show/49455.Notes_from_Underground
+95,The Myth of Sisyphus,Albert Camus,8.32,4.16,110626,#28,1,https://www.goodreads.com/book/show/91950.The_Myth_of_Sisyphus
+96,The Sovereign Individual,James Dale Davidson & William Rees-Mogg,8.32,4.16,4447,#69,1,https://www.goodreads.com/book/show/82256.The_Sovereign_Individual
+97,The Carnivore Code,Paul Saladino,8.32,4.16,2528,#91,1,https://www.goodreads.com/book/show/51000185-the-carnivore-code
+98,Daybreak (The Dawn of Day),Friedrich Nietzsche,8.32,4.16,2406,#33,1,https://www.goodreads.com/book/show/12322.Daybreak
+99,The Art of Memory,Frances A. Yates,8.32,4.16,1630,#95,1,https://www.goodreads.com/book/show/245831.The_Art_of_Memory
+100,Globalists: The End of Empire and the Birth of Neoliberalism,Quinn Slobodian,8.32,4.16,1025,#70,1,https://www.goodreads.com/book/show/36738613-globalists
+101,The Death of Tragedy,George Steiner,8.32,4.16,311,#76,1,https://www.goodreads.com/book/show/778926.The_Death_of_Tragedy
+102,Sacred Art in East and West,Titus Burckhardt,8.32,4.16,67,"#9, #94",2,https://www.goodreads.com/book/show/371784.Sacred_Art_in_East_and_West_1st_Edition
+103,On the Shortness of Life,Seneca,8.30,4.15,49787,#13,1,https://www.goodreads.com/book/show/40195886-on-the-shortness-of-life
+104,The Strange Death of Europe,Douglas Murray,8.30,4.15,13177,"#57, #70, #73",3,https://www.goodreads.com/book/show/33584231-the-strange-death-of-europe
+105,The Question Concerning Technology,Martin Heidegger,8.30,4.15,2330,#8,1,https://www.goodreads.com/book/show/207864.The_Question_Concerning_Technology_and_Other_Essays
+106,The Collapse of Complex Societies,Joseph Tainter,8.30,4.15,1587,"#53, #69",2,https://www.goodreads.com/book/show/477.The_Collapse_of_Complex_Societies
+107,The Interpretation of Fairy Tales,Marie-Louise von Franz,8.30,4.15,1285,#96,1,https://www.goodreads.com/book/show/444383.The_Interpretation_of_Fairy_Tales
+108,Esoterism as Principle and as Way,Frithjof Schuon,8.30,4.15,46,"#16, #94",2,https://www.goodreads.com/book/show/561037.Esoterism_As_Principle_and_As_Way
+109,The Conservative Mind,Russell Kirk,8.28,4.14,1782,#32,1,https://www.goodreads.com/book/show/568864.The_Conservative_Mind
+110,"Our Culture, What's Left of It",Theodore Dalrymple,8.28,4.14,1612,#10,1,https://www.goodreads.com/book/show/117159.Our_Culture_What_s_Left_of_It
+111,The Hermetic Tradition,Julius Evola,8.28,4.14,599,"#51, #68, #82, #93, #94, #95, #99",7,https://www.goodreads.com/book/show/424270.The_Hermetic_Tradition
+112,Not With a Bang But a Whimper,Theodore Dalrymple,8.28,4.14,469,#10,1,https://www.goodreads.com/book/show/4767154-not-with-a-bang-but-a-whimper
+113,The Birth of Fascist Ideology,Zeev Sternhell,8.28,4.14,166,#43,1,https://www.goodreads.com/book/show/1087244.The_Birth_of_Fascist_Ideology
+114,The Revolt Against Civilization,Lothrop Stoddard,8.28,4.14,118,#17,1,https://www.goodreads.com/book/show/10850637-the-revolt-against-civilization
+115,The Age of Secularization,Augusto Del Noce,8.28,4.14,21,#24,1,https://www.goodreads.com/book/show/36608983-the-age-of-secularization
+116,The Problem of Pain,C.S. Lewis,8.26,4.13,77612,#28,1,https://www.goodreads.com/book/show/13650513-the-problem-of-pain
+117,The Rebel,Albert Camus,8.26,4.13,20007,#28,1,https://www.goodreads.com/book/show/11990.The_Rebel
+118,Summa Theologica,Thomas Aquinas,8.26,4.13,4197,#37,1,https://www.goodreads.com/book/show/25709.Summa_Theologica
+119,Democracy: The God That Failed,Hans-Hermann Hoppe,8.26,4.13,2629,"#38, #59",2,https://www.goodreads.com/book/show/980031.Democracy
+120,Four Arguments for the Elimination of Television,Jerry Mander,8.26,4.13,1509,#72,1,https://www.goodreads.com/book/show/228250.Four_Arguments_for_the_Elimination_of_Television
+121,Introduction to the Study of the Hindu Doctrines,René Guénon,8.26,4.13,444,#16,1,https://www.goodreads.com/book/show/748226.Introduction_to_the_Study_of_the_Hindu_Doctrines
+122,The Passing of an Illusion,François Furet,8.26,4.13,142,#66,1,https://www.goodreads.com/book/show/1148330.The_Passing_of_an_Illusion
+123,Recognitions,Julius Evola,8.26,4.13,39,#51,1,https://www.goodreads.com/book/show/37645266-recognitions
+124,The Abolition of Man,C.S. Lewis,8.24,4.12,43864,"#28, #67, #83",3,https://www.goodreads.com/book/show/25825420-the-abolition-of-man
+125,On the Genealogy of Morality,Friedrich Nietzsche,8.24,4.12,38520,"#13, #33, #64, #77, #78, #82",6,https://www.goodreads.com/book/show/80448.On_the_Genealogy_of_Morality
+126,The Perennial Philosophy,Aldous Huxley,8.24,4.12,6747,#81,1,https://www.goodreads.com/book/show/5131.The_Perennial_Philosophy
+127,The Strange Death of Liberal England,George Dangerfield,8.24,4.12,473,#89,1,https://www.goodreads.com/book/show/1138543.The_Strange_Death_of_Liberal_England
+128,The Hour of Decision,Oswald Spengler,8.24,4.12,184,"#8, #65, #71",3,https://www.goodreads.com/book/show/750480.The_Hour_of_Decision
+129,Perspectives on Initiation,René Guénon,8.24,4.12,129,#94,1,https://www.goodreads.com/book/show/748229.Perspectives_on_Initiation
+130,Christian and Oriental Philosophy of Art,Ananda K. Coomaraswamy,8.24,4.12,121,#16,1,https://www.goodreads.com/book/show/565541.Christian_and_Oriental_Philosophy_of_Art_Why_Exhibit_Works_of_Art_
+131,The Sacred and the Profane,Mircea Eliade,8.22,4.11,9547,"#97, #99",2,https://www.goodreads.com/book/show/28024.The_Sacred_and_the_Profane
+132,The Divided Self,R. D. Laing,8.22,4.11,6685,#83,1,https://www.goodreads.com/book/show/496585.The_Divided_Self
+133,Patriotism,Yukio Mishima,8.22,4.11,5049,"#6, #14",2,https://www.goodreads.com/book/show/62795.Patriotism
+134,Untimely Meditations,Friedrich Nietzsche,8.20,4.10,2471,#33,1,https://www.goodreads.com/book/show/451553.Untimely_Meditations
+135,Men Among the Ruins,Julius Evola,8.20,4.10,746,"#1, #5, #9, #13, #16, #18, #19, #28, #43, #55, #64, #78, #80, #97",14,https://www.goodreads.com/book/show/424283.Men_Among_the_Ruins
+136,The Metaphysics of Sex (Eros and the Mysteries of Love),Julius Evola,8.20,4.10,587,#19,1,https://www.goodreads.com/book/show/208056.Eros_and_the_Mysteries_of_Love
+137,Suicide of the West,James Burnham,8.18,4.09,607,#32,1,https://www.goodreads.com/book/show/1270376.Suicide_of_the_West
+138,How We Invented Freedom & Why It Matters (Inventing Freedom),Daniel Hannan,8.18,4.09,574,#89,1,https://www.goodreads.com/book/show/19044512-how-we-invented-freedom-why-it-matters
+139,The Mystery of the Grail,Julius Evola,8.18,4.09,541,#19,1,https://www.goodreads.com/book/show/424272.The_Mystery_of_the_Grail
+140,Meditations on the Peaks,Julius Evola,8.18,4.09,387,#19,1,https://www.goodreads.com/book/show/424274.Meditations_on_the_Peaks
+141,The Egyptian Hermes,Garth Fowden,8.18,4.09,76,#95,1,https://www.goodreads.com/book/show/603024.The_Egyptian_Hermes
+142,Discourses on Livy,Niccolo Machiavelli,8.16,4.08,10080,#8,1,https://www.goodreads.com/book/show/57517888-discourses-on-livy
+143,The Gift of Death,Jacques Derrida,8.16,4.08,1113,#87,1,https://www.goodreads.com/book/show/167500.The_Gift_of_Death
+144,The Yoga of Power,Julius Evola,8.16,4.08,343,"#51, #61, #68, #80, #84, #90",6,https://www.goodreads.com/book/show/424271.The_Yoga_of_Power
+145,Genesis and Structure of Society,Giovanni Gentile,8.16,4.08,12,"#15, #18",2,https://www.goodreads.com/book/show/13209225-genesis-and-structure-of-society
+146,Thus Spoke Zarathustra,Friedrich Nietzsche,8.14,4.07,184975,"#1, #6, #13, #28, #33, #54, #58, #61, #75, #76, #78, #85, #87",13,https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra
+147,The Will to Power,Friedrich Nietzsche,8.14,4.07,11541,"#28, #55, #58, #75, #77, #82, #85, #87",8,https://www.goodreads.com/book/show/31785.The_Will_to_Power
+148,The Crisis of the Modern World,René Guénon,8.14,4.07,2520,"#5, #16, #31, #42, #54, #57, #58, #63, #68, #79, #80, #88, #93, #94, #96, #100",16,https://www.goodreads.com/book/show/424125.The_Crisis_of_the_Modern_World
+149,Suicide of a Superpower,Patrick Buchanan,8.14,4.07,903,#10,1,https://www.goodreads.com/book/show/11167391-suicide-of-a-superpower
+150,The Triumph of the Therapeutic,Philip Rieff,8.14,4.07,259,#83,1,https://www.goodreads.com/book/show/391850.The_Triumph_of_the_Therapeutic
+151,Surprised by Joy,C.S. Lewis,8.12,4.06,71632,#28,1,https://www.goodreads.com/book/show/121732.Surprised_by_Joy
+152,The Warrior Ethos,Steven Pressfield,8.12,4.06,5160,"#13, #61, #87",3,https://www.goodreads.com/book/show/11441002-the-warrior-ethos
+153,The Decline of the West,Oswald Spengler,8.12,4.06,2363,"#2, #8, #22, #29, #32, #38, #42, #57, #65, #71, #81, #88, #100",13,https://www.goodreads.com/book/show/801754.The_Decline_of_the_West
+154,Imperium,Francis Parker Yockey,8.12,4.06,477,"#3, #6, #18, #22, #29, #40, #42, #71, #88",9,https://www.goodreads.com/book/show/243604.Imperium
+155,The Transcendent Unity of Religions,Frithjof Schuon,8.12,4.06,263,"#16, #31, #39, #48, #94, #100",6,https://www.goodreads.com/book/show/261030.The_Transcendent_Unity_of_Religions
+156,Being and Time,Martin Heidegger,8.10,4.05,28899,"#3, #8, #34",3,https://www.goodreads.com/book/show/92307.Being_and_Time
+157,The Primal Blueprint,Mark Sisson,8.10,4.05,8835,#91,1,https://www.goodreads.com/book/show/6515468-the-primal-blueprint
+158,The God That Failed,Richard Crossman (ed.),8.10,4.05,487,#66,1,https://www.goodreads.com/book/show/442380.The_God_that_Failed
+159,Fascism (Oxford Readers),Roger Griffin,8.10,4.05,273,#44,1,https://www.goodreads.com/book/show/349775.Fascism
+160,After Liberalism: Mass Democracy in the Managerial State,Paul Gottfried,8.10,4.05,135,#59,1,https://www.goodreads.com/book/show/615970.After_Liberalism
+161,Beautiful Losers,Samuel T. Francis,8.10,4.05,109,#27,1,https://www.goodreads.com/book/show/102910.Beautiful_Losers
+162,Homo Americanus: Child of the Postmodern Age,Tomislav Sunić,8.10,4.05,65,"#45, #57",2,https://www.goodreads.com/book/show/448711.Homo_americanus
+163,Nova Europa: European Survival Strategy in a Darkening World,Arthur Kemp,8.10,4.05,38,"#60, #86",2,https://www.goodreads.com/book/show/167550800-nova-europa
+164,The Denial of Death,Ernest Becker,8.08,4.04,17054,"#76, #78, #85",3,https://www.goodreads.com/book/show/132780478-the-denial-of-death-by-ernest-becker-04-april-2011
+165,Ressentiment,Max Scheler,8.08,4.04,346,#24,1,https://www.goodreads.com/book/show/381217.Ressentiment
+166,Understanding Islam,Frithjof Schuon,8.08,4.04,269,#16,1,https://www.goodreads.com/book/show/566802.Understanding_Islam
+167,"Living Within Limits: Ecology, Economics, and Population Taboos",Garrett Hardin,8.08,4.04,227,#36,1,https://www.goodreads.com/book/show/689941.Living_within_Limits
+168,England: An Elegy,Roger Scruton,8.08,4.04,191,#89,1,https://www.goodreads.com/book/show/217746117-england
+169,The Gnostic Jung,C. G. Jung (ed. Robert A. Segal),8.08,4.04,106,#96,1,https://www.goodreads.com/book/show/479627.The_Gnostic_Jung
+170,The Stranger,Albert Camus,8.06,4.03,1541373,#28,1,https://www.goodreads.com/book/show/49552.The_Stranger
+171,Beyond Good and Evil,Friedrich Nietzsche,8.06,4.03,121286,"#6, #13, #28, #32, #33, #64, #82",7,https://www.goodreads.com/book/show/33651446-beyond-good-and-evil
+172,The Revolt of the Masses,José Ortega y Gasset,8.06,4.03,6924,#72,1,https://www.goodreads.com/book/show/282447.The_Revolt_of_the_Masses
+173,Introduction to Metaphysics,Martin Heidegger,8.06,4.03,4470,"#8, #34",2,https://www.goodreads.com/book/show/92402.Introduction_to_Metaphysics
+174,Tragic Sense of Life,Miguel de Unamuno,8.06,4.03,2576,"#76, #78, #79, #85",4,https://www.goodreads.com/book/show/201571817-tragic-sense-of-life
+175,"Human Diversity: The Biology of Gender, Race, and Class",Charles Murray,8.06,4.03,905,#64,1,https://www.goodreads.com/book/show/50202799-human-diversity
+176,The Racial Elements of European History,Hans F. K. Günther,8.06,4.03,38,#17,1,https://www.goodreads.com/book/show/7334951-the-racial-elements-of-european-history
+177,The Plague,Albert Camus,8.04,4.02,335386,#28,1,https://www.goodreads.com/book/show/11989.The_Plague
+178,The Golden Bough,James George Frazer,8.04,4.02,8848,#99,1,https://www.goodreads.com/book/show/408862.The_Golden_Bough
+179,The White Goddess,Robert Graves,8.04,4.02,3669,#99,1,https://www.goodreads.com/book/show/820465.The_White_Goddess
+180,Metaphysics of War,Julius Evola,8.04,4.02,915,"#28, #34, #51, #61, #75, #77, #84, #90, #98",9,https://www.goodreads.com/book/show/3131472-metaphysics-of-war
+181,"The Essential Titus Burckhardt: Reflections on Sacred Art, Faiths, and Civilizations",Titus Burckhardt,8.04,4.02,47,"#31, #48",2,https://www.goodreads.com/book/show/20349766-the-essential-titus-burckhardt
+182,America's Half-Blood Prince,Steve Sailer,8.04,4.02,41,#27,1,https://www.goodreads.com/book/show/6363664-america-s-half-blood-prince
+183,Nicomachean Ethics,Aristotle,8.02,4.01,63725,"#37, #74",2,https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics
+184,The Black Book of Communism,Stéphane Courtois et al.,8.02,4.01,1172,#66,1,https://www.goodreads.com/book/show/106169.The_Black_Book_of_Communism
+185,Pagan Imperialism,Julius Evola,8.02,4.01,175,"#19, #52",2,https://www.goodreads.com/book/show/35563362-pagan-imperialism
+186,The Worker,Ernst Jünger,8.00,4.00,215,"#6, #20, #90, #98",4,https://www.goodreads.com/book/show/34448135-the-worker
+187,Christ the Original Mystery,Jean Borella,8.00,4.00,16,#9,1,https://www.goodreads.com/book/show/40075179-christ-the-original-mystery
+188,The Problem of Atheism,Augusto Del Noce,8.00,4.00,13,#24,1,https://www.goodreads.com/book/show/57331927-the-problem-of-atheism-mcgill-queen-s-studies-in-the-history-of-ideas
+189,The Sense of the Supernatural,Jean Borella,8.00,4.00,13,#9,1,https://www.goodreads.com/book/show/2618758-the-sense-of-the-supernatural
+190,Hagakure: The Way of the Samurai,Yamamoto Tsunetomo,7.98,3.99,17265,#98,1,https://www.goodreads.com/book/show/130344542-hagakure
+191,The Death of the West,Patrick J. Buchanan,7.98,3.99,1669,"#10, #57, #70, #73",4,https://www.goodreads.com/book/show/401824.Death_Of_The_West
+192,An Introduction to Sufi Doctrine,Titus Burckhardt,7.98,3.99,91,#9,1,https://www.goodreads.com/book/show/65022677-an-introduction-to-sufi-doctrine
+193,Revolt Against the Modern World,Julius Evola,7.96,3.98,2498,"#5, #9, #16, #18, #19, #22, #28, #29, #31, #38, #39, #42, #54, #58, #64, #65, #71, #80, #88, #93, #100",21,https://www.goodreads.com/book/show/179404.Revolt_Against_the_Modern_World
+194,The Diversity Delusion,Heather Mac Donald,7.96,3.98,1903,#67,1,https://www.goodreads.com/book/show/38492016-the-diversity-delusion
+195,"The Soviet Tragedy: A History of Socialism in Russia, 1917-1991",Martin Malia,7.96,3.98,227,#66,1,https://www.goodreads.com/book/show/302835.The_Soviet_Tragedy
+196,Why We Fight: Manifesto of the European Resistance,Guillaume Faye,7.96,3.98,158,"#10, #38, #44, #57, #58",5,https://www.goodreads.com/book/show/11394709-why-we-fight
+197,The Republic,Plato,7.94,3.97,234107,#37,1,https://www.goodreads.com/book/show/30289.The_Republic
+198,The Temple of the Golden Pavilion,Yukio Mishima,7.94,3.97,27249,"#20, #26",2,https://www.goodreads.com/book/show/133293880-the-temple-of-the-golden-pavilion-by-yukio-mishima
+199,The Birth of Tragedy,Friedrich Nietzsche,7.94,3.97,22581,"#6, #33, #61, #76",4,https://www.goodreads.com/book/show/2823.The_Birth_of_Tragedy
+200,Phenomenology of Spirit,G. W. F. Hegel,7.94,3.97,21283,#37,1,https://www.goodreads.com/book/show/9454.Phenomenology_of_Spirit
+201,The Abolition of Britain,Peter Hitchens,7.94,3.97,911,#89,1,https://www.goodreads.com/book/show/70407.The_Abolition_of_Britain
+202,The Nature of Fascism,Roger Griffin,7.94,3.97,129,#56,1,https://www.goodreads.com/book/show/349799.The_Nature_of_Fascism
+203,The War of Art,Steven Pressfield,7.92,3.96,124998,#13,1,https://www.goodreads.com/book/show/1319.The_War_of_Art
+204,Critique of Pure Reason,Immanuel Kant,7.92,3.96,44592,#37,1,https://www.goodreads.com/book/show/51851032-the-critique-of-pure-reason
+205,The City of God,Saint Augustine of Hippo,7.92,3.96,14250,#34,1,https://www.goodreads.com/book/show/43152943-the-city-of-god
+206,The Culture of Narcissism,Christopher Lasch,7.92,3.96,4555,#83,1,https://www.goodreads.com/book/show/38212112-the-culture-of-narcissism
+207,Beauty,Roger Scruton,7.92,3.96,2962,"#20, #81, #92",3,https://www.goodreads.com/book/show/6323955-beauty
+208,Ride the Tiger,Julius Evola,7.92,3.96,1850,"#4, #5, #9, #13, #16, #18, #19, #28, #31, #32, #40, #54, #58, #78, #79, #85, #87, #93",18,https://www.goodreads.com/book/show/424268.Ride_the_Tiger
+209,Culture Counts,Roger Scruton,7.92,3.96,412,#20,1,https://www.goodreads.com/book/show/486059.Culture_Counts
+210,The Winning of the West,Theodore Roosevelt,7.92,3.96,85,#13,1,https://www.goodreads.com/book/show/23449936-the-winning-of-the-west
+211,History of the Peloponnesian War,Thucydides,7.90,3.95,41696,#81,1,https://www.goodreads.com/book/show/239128205-the-history-of-the-peloponnesian-war-by-thucydides
+212,Twilight of the Idols,Friedrich Nietzsche,7.90,3.95,15436,"#6, #33, #54",3,https://www.goodreads.com/book/show/851994.Twilight_of_the_Idols
+213,On War,Carl von Clausewitz,7.90,3.95,14920,#98,1,https://www.goodreads.com/book/show/117031.On_War
+214,The Concept of the Political,Carl Schmitt,7.90,3.95,3903,"#3, #5, #22, #32, #44, #59, #64, #97",8,https://www.goodreads.com/book/show/279245.The_Concept_of_the_Political
+215,Introduction to Magic,Julius Evola (UR Group),7.90,3.95,233,"#51, #68, #82, #94, #95",5,https://www.goodreads.com/book/show/143548.Introduction_to_Magic
+216,The Religious Attitudes of the Indo-Europeans,Hans F. K. Günther,7.90,3.95,60,#17,1,https://www.goodreads.com/book/show/4391029-the-religious-attitudes-of-the-indo-europeans
+217,The Proclamation of London,Francis Parker Yockey,7.90,3.95,41,"#6, #18, #22",3,https://www.goodreads.com/book/show/13024516-the-proclamation-of-london
+218,The Art of War,Sun Tzu,7.88,3.94,600836,"#2, #8, #98",3,https://www.goodreads.com/book/show/10534.The_Art_of_War
+219,The Iliad,Homer,7.88,3.94,540194,"#74, #77, #81, #84, #87, #100",6,https://www.goodreads.com/book/show/11054461-the-iliad-of-homer
+220,The Decay of Lying,Oscar Wilde,7.88,3.94,2776,#57,1,https://www.goodreads.com/book/show/6614687-the-decay-of-lying-by-oscar-wilde
+221,The Revolt of the Elites and the Betrayal of Democracy,Christopher Lasch,7.88,3.94,1597,"#55, #59",2,https://www.goodreads.com/book/show/586994.The_Revolt_of_the_Elites_and_the_Betrayal_of_Democracy
+222,On Friendship,Cicero,7.88,3.94,1191,#74,1,https://www.goodreads.com/book/show/352613.Treatises_on_Friendship_and_Old_Age
+223,Man and Technics: A Contribution to a Philosophy of Life,Oswald Spengler,7.88,3.94,1105,"#8, #42, #54, #58, #62, #69, #88",7,https://www.goodreads.com/book/show/750481.Man_and_Technics
+224,Fascism: Style and Spectacle (Fascist Spectacle: The Aesthetics of Power),Simonetta Fraquelli & Matthew Affron,7.88,3.94,77,#56,1,https://www.goodreads.com/book/show/916229.Fascist_Spectacle
+225,The Greater Britain,Oswald Mosley,7.88,3.94,68,#5,1,https://www.goodreads.com/book/show/15903580-the-greater-britain
+226,The Book of Five Rings,Miyamoto Musashi,7.86,3.93,65499,"#84, #90",2,https://www.goodreads.com/book/show/276389.The_Book_of_Five_Rings
+227,The Soul of Man Under Socialism,Oscar Wilde,7.86,3.93,6747,#83,1,https://www.goodreads.com/book/show/64311257-the-soul-of-man-under-socialism-oscar-wilde
+228,The Strenuous Life,Theodore Roosevelt,7.86,3.93,1385,#13,1,https://www.goodreads.com/book/show/131387242-the-strenuous-life-by-theodore-roosevelt-author-hardcover-on
+229,The Identitarians,José Javier Esparza,7.86,3.93,27,"#49, #50",2,https://www.goodreads.com/book/show/39834398-the-identitarians
+230,Political Theology,Carl Schmitt,7.84,3.92,2099,#5,1,https://www.goodreads.com/book/show/143256500-political-theology-05-by-schmitt-carl-paperback-2006
+231,Discourse on Thinking,Martin Heidegger,7.84,3.92,748,#8,1,https://www.goodreads.com/book/show/207896.Discourse_on_Thinking
+232,Modern Capitalism,Werner Sombart,7.84,3.92,109,#15,1,https://www.goodreads.com/book/show/1706460.The_Jews_and_Modern_Capitalism
+233,The Jews and Modern Capitalism,Werner Sombart,7.84,3.92,109,#15,1,https://www.goodreads.com/book/show/1706460.The_Jews_and_Modern_Capitalism
+234,The Coming Corporate State,Alexander Raven Thomson,7.84,3.92,39,#62,1,https://www.goodreads.com/book/show/19270026-the-coming-corporate-state
+235,The Camp of the Saints,Jean Raspail,7.82,3.91,2850,"#30, #32, #38, #60, #70, #73, #100",7,https://www.goodreads.com/book/show/1181058.The_Camp_of_the_Saints
+236,The Dance of Shiva,Ananda K. Coomaraswamy,7.82,3.91,285,#16,1,https://www.goodreads.com/book/show/33792334-the-dance-of-shiva
+237,The Gift,Marcel Mauss,7.80,3.90,3978,#87,1,https://www.goodreads.com/book/show/349990.The_Gift
+238,The Library of Greek Mythology,Apollodorus,7.80,3.90,2643,#81,1,https://www.goodreads.com/book/show/27410.The_Library_of_Greek_Mythology
+239,On Being a Pagan,Alain de Benoist,7.80,3.90,208,"#5, #38, #45, #52, #57, #63",6,https://www.goodreads.com/book/show/1462501.On_Being_a_Pagan
+240,Fascism for the Million,Oswald Mosley,7.80,3.90,114,#5,1,https://www.goodreads.com/book/show/15903576-fascism-for-the-million
+241,The Bow and the Club,Julius Evola,7.80,3.90,108,"#51, #75, #84, #87",4,https://www.goodreads.com/book/show/38846773-the-bow-and-the-club
+242,Breath: The New Science of a Lost Art,James Nestor,7.80,3.90,20,#91,1,https://www.goodreads.com/book/show/247293608-breath
+243,The Crisis of Parliamentary Democracy,Carl Schmitt,7.78,3.89,459,#59,1,https://www.goodreads.com/book/show/3817981-the-crisis-of-parliamentary-democracy
+244,Alien Nation,Peter Brimelow,7.78,3.89,152,#73,1,https://www.goodreads.com/book/show/343282.Alien_Nation
+245,The Antichrist,Friedrich Nietzsche,7.76,3.88,34363,#33,1,https://www.goodreads.com/book/show/51047383-the-antichrist-nietzsche-essentials
+246,Becoming a Barbarian,Jack Donovan,7.76,3.88,1492,#74,1,https://www.goodreads.com/book/show/29570801-becoming-a-barbarian
+247,On Pain,Ernst Jünger,7.76,3.88,785,#6,1,https://www.goodreads.com/book/show/5299799-on-pain
+248,Art of the Third Reich,Peter Adam,7.76,3.88,75,#56,1,https://www.goodreads.com/book/show/905304.Art_of_the_Third_Reich
+249,East and West,René Guénon,7.74,3.87,414,"#39, #48",2,https://www.goodreads.com/book/show/424130.East_and_West
+250,The Odyssey,Homer,7.72,3.86,1294799,#81,1,https://www.goodreads.com/book/show/1381.The_Odyssey
+251,The Fourth Turning,William Strauss & Neil Howe,7.72,3.86,8060,"#65, #71",2,https://www.goodreads.com/book/show/670089.The_Fourth_Turning
+252,How to Think Seriously About the Planet,Roger Scruton,7.72,3.86,456,#36,1,https://www.goodreads.com/book/show/13351559-green-philosophy
+253,Legality and Legitimacy,Carl Schmitt,7.72,3.86,139,#5,1,https://www.goodreads.com/book/show/227729813-legality-and-legitimacy-by-carl-schmitt
+254,Hinduism and Buddhism,Ananda K. Coomaraswamy,7.72,3.86,123,"#16, #94",2,https://www.goodreads.com/book/show/1088495.Hinduism_and_Buddhism
+255,View from the Right,Alain de Benoist,7.72,3.86,37,#49,1,https://www.goodreads.com/book/show/35594421-view-from-the-right-volume-i
+256,A Handbook for Right-Wing Youth,Julius Evola,7.70,3.85,228,"#2, #5, #13, #49, #50",5,https://www.goodreads.com/book/show/34438155-a-handbook-for-right-wing-youth
+257,The Problem of Democracy,Alain de Benoist,7.70,3.85,157,"#5, #45",2,https://www.goodreads.com/book/show/10640497-the-problem-of-democracy
+258,My Life,Oswald Mosley,7.70,3.85,110,#5,1,https://www.goodreads.com/book/show/45292932-my-life
+259,The Prince,Niccolo Machiavelli,7.68,3.84,402732,"#2, #8",2,https://www.goodreads.com/book/show/32793289-the-prince
+260,Industrial Society and Its Future,Theodore John Kaczynski,7.68,3.84,13638,#36,1,https://www.goodreads.com/book/show/225468.Industrial_Society_and_Its_Future
+261,The Craftsman,Richard Sennett,7.68,3.84,2072,#92,1,https://www.goodreads.com/book/show/1931426.The_Craftsman
+262,Fanged Noumena,Nick Land,7.68,3.84,1376,"#27, #53",2,https://www.goodreads.com/book/show/10838202-fanged-noumena
+263,Gothic Violence,Mike Ma,7.68,3.84,1092,"#3, #6, #27, #30",4,https://www.goodreads.com/book/show/58356116-gothic-violence
+264,The Occult Roots of Nazism,Nicholas Goodrick-Clarke,7.68,3.84,732,#47,1,https://www.goodreads.com/book/show/742868.The_Occult_Roots_of_Nazism
+265,The Aesthetics of Architecture,Roger Scruton,7.68,3.84,119,"#20, #92",2,https://www.goodreads.com/book/show/1364282.The_Aesthetics_of_Architecture
+266,The Sailor Who Fell from Grace with the Sea,Yukio Mishima,7.66,3.83,57800,#26,1,https://www.goodreads.com/book/show/162332.The_Sailor_Who_Fell_from_Grace_with_the_Sea
+267,Race Differences in Intelligence,Richard Lynn,7.66,3.83,101,#46,1,https://www.goodreads.com/book/show/113716.Race_Differences_in_Intelligence
+268,Bushido: The Soul of Japan,Inazo Nitobe,7.64,3.82,10846,"#84, #90, #98",3,https://www.goodreads.com/book/show/59387050-bushido-the-soul-of-japan-by-inazo-nitobe
+269,Sun and Steel,Yukio Mishima,7.64,3.82,10228,"#1, #6, #14, #20, #26, #40, #61, #84, #90, #98, #100",11,https://www.goodreads.com/book/show/62804.Sun_Steel
+270,Prussianism and Socialism,Oswald Spengler,7.64,3.82,217,"#62, #88",2,https://www.goodreads.com/book/show/13356016-prussianism-and-socialism
+271,Ecce Homo,Friedrich Nietzsche,7.62,3.81,21140,"#33, #85",2,https://www.goodreads.com/book/show/479356.Ecce_Homo
+272,Harassment Architecture,Mike Ma,7.62,3.81,2861,"#1, #6, #27, #53, #61",5,https://www.goodreads.com/book/show/45363333-harassment-architecture
+273,Gods of the Ancient Northmen,Georges Dumézil,7.62,3.81,207,#99,1,https://www.goodreads.com/book/show/4005772-gods-of-the-ancient-northmen
+274,The Rise and Fall of Elites,Vilfredo Pareto,7.62,3.81,192,#55,1,https://www.goodreads.com/book/show/727646.The_Rise_and_Fall_of_the_Elites
+275,Orientations,Julius Evola,7.62,3.81,84,#19,1,https://www.goodreads.com/book/show/56590088-orientations
+276,Mothers of Conservatism,Michelle M. Nickerson,7.62,3.81,68,#35,1,https://www.goodreads.com/book/show/13280928-mothers-of-conservatism
+277,Against Democracy and Equality: The European New Right,Tomislav Sunić,7.60,3.80,148,"#44, #57, #59, #63",4,https://www.goodreads.com/book/show/4337180-against-democracy-and-equality
+278,The Way of Men,Jack Donovan,7.58,3.79,7478,"#61, #74, #84, #91",4,https://www.goodreads.com/book/show/13572289-the-way-of-men
+279,Fascism Viewed from the Right,Julius Evola,7.58,3.79,273,"#1, #18, #43",3,https://www.goodreads.com/book/show/17445371-fascism-viewed-from-the-right
+280,The Case Against the Democratic State,Gordon Graham,7.58,3.79,14,#59,1,https://www.goodreads.com/book/show/1070813.The_Case_Against_the_Democratic_State
+281,On the Marble Cliffs,Ernst Jünger,7.56,3.78,2981,#20,1,https://www.goodreads.com/book/show/501415.On_the_Marble_Cliffs
+282,The King of the World,René Guénon,7.54,3.77,505,"#82, #97",2,https://www.goodreads.com/book/show/36202241-the-king-of-the-world
+283,Impeachment of Man,Savitri Devi,7.54,3.77,116,"#9, #23, #80",3,https://www.goodreads.com/book/show/5996924-the-impeachment-of-man
+284,The Closing of the American Mind,Allan Bloom,7.52,3.76,6076,#67,1,https://www.goodreads.com/book/show/75812.The_Closing_of_the_American_Mind
+285,The Myth of Mental Illness,Thomas Szasz,7.52,3.76,1852,#83,1,https://www.goodreads.com/book/show/706525.The_Myth_of_Mental_Illness
+286,The Tragic Mind,Robert D. Kaplan,7.50,3.75,730,#76,1,https://www.goodreads.com/book/show/60747416-the-tragic-mind
+287,The Road to 1945,Paul Addison,7.50,3.75,60,#89,1,https://www.goodreads.com/book/show/2927381-the-road-to-1945
+288,Shop Class as Soulcraft,Matthew B. Crawford,7.48,3.74,11539,#92,1,https://www.goodreads.com/book/show/6261332-shop-class-as-soulcraft
+289,The Virtue of Nationalism,Yoram Hazony,7.48,3.74,639,"#70, #86",2,https://www.goodreads.com/book/show/37977136-the-virtue-of-nationalism
+290,"Black Sun: Aryan Cults, Esoteric Nazism and the Politics of Identity",Nicholas Goodrick-Clarke,7.48,3.74,471,"#47, #56",2,https://www.goodreads.com/book/show/213804.Black_Sun
+291,The Nature of Sympathy,Max Scheler,7.48,3.74,62,#24,1,https://www.goodreads.com/book/show/2698544-the-nature-of-sympathy
+292,Albion: The Origins of the English Imagination,Peter Ackroyd,7.46,3.73,598,#89,1,https://www.goodreads.com/book/show/233348999-albion
+293,"Lights Out: Sleep, Sugar, and Survival",T. S. Wiley & Bent Formby,7.44,3.72,761,#91,1,https://www.goodreads.com/book/show/299528.Lights_Out
+294,Origins and Doctrine of Fascism,Giovanni Gentile,7.42,3.71,215,#18,1,https://www.goodreads.com/book/show/349820.Origins_and_Doctrine_of_Fascism
+295,After the Banquet,Yukio Mishima,7.40,3.70,3531,#26,1,https://www.goodreads.com/book/show/62823.After_the_Banquet
+296,The Colonisation of Europe,Guillaume Faye,7.40,3.70,20,"#10, #60, #73",3,https://www.goodreads.com/book/show/29887078-the-colonisation-of-europe
+297,The Devil's Pleasure Palace,Michael Walsh,7.38,3.69,441,"#67, #72",2,https://www.goodreads.com/book/show/25967860-the-devil-s-pleasure-palace
+298,Europe: Faith and Plan,Oswald Mosley,7.38,3.69,13,"#5, #41",2,https://www.goodreads.com/book/show/17049936-europe
+299,"On Heroes, Hero-Worship, and the Heroic in History",Thomas Carlyle,7.36,3.68,1051,#75,1,https://www.goodreads.com/book/show/216114038-on-heroes-hero-worship-and-the-heroic-in-history---the-annotated-carly
+300,Beyond Human Rights,Alain de Benoist,7.36,3.68,186,"#5, #45",2,https://www.goodreads.com/book/show/12991006-beyond-human-rights
+301,The Conservative Environmentalist,Benji Backer,7.36,3.68,158,#36,1,https://www.goodreads.com/book/show/199859395-the-conservative-environmentalist
+302,Traditionalism: The Radical Project for Restoring Sacred Order,Mark Sedgwick,7.36,3.68,90,#36,1,https://www.goodreads.com/book/show/62612086-traditionalism
+303,Archeofuturism,Guillaume Faye,7.32,3.66,373,"#10, #40, #45, #57, #69",5,https://www.goodreads.com/book/show/9436017-archeofuturism
+304,The Road to Character,David Brooks,7.30,3.65,27083,#83,1,https://www.goodreads.com/book/show/22551809-the-road-to-character
+305,The Life of Castruccio Castracani,Niccolo Machiavelli,7.30,3.65,303,#8,1,https://www.goodreads.com/book/show/6601058-the-life-of-castruccio-castracani-of-lucca
+306,The Heartless,Yi Kwang-su,7.30,3.65,172,#14,1,https://www.goodreads.com/book/show/40094347-the-heartless
+307,Fascinating Womanhood,Helen B. Andelin,7.28,3.64,1748,#35,1,https://www.goodreads.com/book/show/815870.Fascinating_Womanhood
+308,Hindutva: Who Is a Hindu?,Vinayak Damodar Savarkar,7.28,3.64,594,#14,1,https://www.goodreads.com/book/show/35853331-hindutva
+309,The Case for Marriage,Linda J. Waite & Maggie Gallagher,7.26,3.63,193,#35,1,https://www.goodreads.com/book/show/48680.The_Case_for_Marriage
+310,Man's Place in Nature,Max Scheler,7.24,3.62,378,#24,1,https://www.goodreads.com/book/show/37841334-man-s-place-in-nature
+311,The Bell Curve,Charles Murray & Richard Herrnstein,7.22,3.61,3594,"#46, #86",2,https://www.goodreads.com/book/show/223556.The_Bell_Curve
+312,The Myth of the Twentieth Century,Alfred Rosenberg,7.22,3.61,269,#29,1,https://www.goodreads.com/book/show/1946717.The_Myth_of_the_Twentieth_Century
+313,The Real Right Returns,Daniel Friberg,7.22,3.61,121,"#57, #63",2,https://www.goodreads.com/book/show/27426637-the-real-right-returns
+314,The Death of Learning,John Agresto,7.18,3.59,63,#67,1,https://www.goodreads.com/book/show/60333571-the-death-of-learning
+315,Reflections on Violence,Georges Sorel,7.12,3.56,539,#43,1,https://www.goodreads.com/book/show/235976362-reflections-on-violence-by-georges-sorel
+316,Manifesto for a European Renaissance,Alain de Benoist & Charles Champetier,7.12,3.56,208,"#4, #5, #40, #49",4,https://www.goodreads.com/book/show/12971258-manifesto-for-a-european-renaissance
+317,The Song of Roland,Anonymous,7.02,3.51,19991,"#77, #87",2,https://www.goodreads.com/book/show/142488932-the-song-of-roland-by-anonymous-1990-paperback
+318,The Foundations of the Nineteenth Century,Houston Stewart Chamberlain,6.98,3.49,47,"#17, #29",2,https://www.goodreads.com/book/show/5652083-foundations-of-the-nineteenth-century
+319,The Secret King,Karl Maria Wiligut,6.86,3.43,37,#47,1,https://www.goodreads.com/book/show/677302.The_Secret_King
+320,It Takes a Family,Rick Santorum,6.84,3.42,160,#35,1,https://www.goodreads.com/book/show/881103.It_Takes_a_Family
+321,Hard Green: Saving the Environment from the Environmentalists,Peter W. Huber,6.82,3.41,85,#36,1,https://www.goodreads.com/book/show/307157.Hard_Green
+322,Essay on the Inequality of the Human Races,Arthur de Gobineau,6.80,3.40,211,#17,1,https://www.goodreads.com/book/show/20326419-an-essay-on-the-inequality-of-the-human-races
+323,Generation Identity: A Declaration of War Against the '68ers,Markus Willinger,6.78,3.39,199,#50,1,https://www.goodreads.com/book/show/17931149-generation-identity
+324,Templexity,Nick Land,6.68,3.34,105,#27,1,https://www.goodreads.com/book/show/23640225-templexity
+325,The Passing of the Great Race,Madison Grant,6.64,3.32,189,#17,1,https://www.goodreads.com/book/show/37213171-the-passing-of-the-great-race
+326,You Will Not Replace Us!,Renaud Camus,6.64,3.32,44,"#10, #50, #60",3,https://www.goodreads.com/book/show/44672244-you-will-not-replace-us
+327,The Fourth Political Theory,Alexander Dugin,6.60,3.30,807,#69,1,https://www.goodreads.com/book/show/17049849-the-fourth-political-theory
+328,Addresses to the German Nation,Johann Gottlieb Fichte,6.52,3.26,118,#29,1,https://www.goodreads.com/book/show/7690321-addresses-to-the-german-nation
+329,The Dark Enlightenment,Nick Land,6.46,3.23,826,"#27, #53",2,https://www.goodreads.com/book/show/32307349-the-dark-enlightenment
+330,The Doctrine of Fascism,Benito Mussolini & Giovanni Gentile,6.16,3.08,1492,"#15, #29, #43",3,https://www.goodreads.com/book/show/1184142.The_Doctrine_of_Fascism
+331,The Power of the Positive Woman,Phyllis Schlafly,5.92,2.96,28,#35,1,https://www.goodreads.com/book/show/3088989-the-power-of-the-positive-woman
+,A Distant Thunder,H. A. Covington,,,,#30,1,
+,A Gentle Introduction to Unqualified Reservations,Curtis Yarvin,,,,#27,1,
+,A Study of History,Arnold J. Toynbee,,,,#42,1,
+,Actualism: Essays in Philosophy,Giovanni Gentile,,,,#18,1,
+,An Open Letter to Open-Minded Progressives,Curtis Yarvin,,,,#27,1,
+,Articles in Zeitschrift für Nationalökonomie,Othmar Spann,,,,#15,1,
+,Artists of the Right: Resisting Decadence,Kerry Bolton,,,,#45,1,
+,Civilisation as Divine Superman,Alexander Raven Thomson,,,,#81,1,
+,Comments on the Critique of Consciousness-Only,Zhang Binglin,,,,#14,1,
+,Defiance,Savitri Devi,,,,#9,1,
+,Der wahre Staat (The True State),Othmar Spann,,,,#15,1,
+,Doctrinal Texts of the Falange,José Antonio Primo de Rivera,,,,#18,1,
+,Erectus Walks Amongst Us,Richard Fuerle,,,,#46,1,
+,Essay on Nationalism,Zhang Binglin,,,,#14,1,
+,Fascism: Doctrine and Institutions,Benito Mussolini,,,,#41,1,
+,Figures of Speech or Figures of Thought?,Ananda K. Coomaraswamy,,,,#16,1,
+,Founding Manifesto of the Falange,José Antonio Primo de Rivera,,,,#18,1,
+,Freedom's Sons,H. A. Covington,,,,#30,1,
+,Frithjof Schuon and the Perennial Philosophy,Harry Oldmeadow,,,,#3,1,
+,German Economic Policy,Wilhelm Bauer,,,,#41,1,
+,Histoire de la Collaboration,Dominique Venner,,,,#20,1,
+,Il Problema dell'Autorità Sacra,Guido De Giorgio,,,,#16,1,
+,Immanuel Kant,Houston Stewart Chamberlain,,,,#17,1,
+,Introduction to the Holy War,Shumei Okawa,,,,#14,1,
+,Jeune Europe Manifestos,Jean Thiriart,,,,#18,1,
+,Kitchen Table Politics,Stacie Taranto,,,,#35,1,
+,La Civiltà Romana,Guido De Giorgio,,,,#16,1,
+,La Tradizione Romana,Guido De Giorgio,,,,#16,1,
+,Language of the Self,Frithjof Schuon,,,,#16,1,
+,Le Changement de peuple,Renaud Camus,,,,#10,1,
+,Lettere a Julius Evola,Guido De Giorgio,,,,#16,1,
+,Manifesto for the Abolition of Interest Slavery,Gottfried Feder,,,,"#15, #41",2,
+,Nature and Nationalism: Right-Wing Ecology and the Politics of Identity in Contemporary Germany,Jonathan Olsen,,,,#36,1,
+,On the Crisis of Japanese Civilization,Shumei Okawa,,,,#14,1,
+,On the Reconstruction of the National Spirit,Yi Kwang-su,,,,#14,1,
+,Oriental Despotism and the Fall of Civilizations,Arthur de Gobineau,,,,#17,1,
+,Outlines of American Political Economy,Friedrich List,,,,#15,1,
+,Political Ideals,Houston Stewart Chamberlain,,,,#17,1,
+,Racial Typology of the German People,Hans F. K. Günther,,,,#17,1,
+,Remigration: A Proposal,Martin Sellner,,,,#86,1,
+,Speech at the Teatro de la Comedia,José Antonio Primo de Rivera,,,,#18,1,
+,Tenured Radicals,Roger Kimball,,,,#67,1,
+,The Alien in Our Midst,Madison Grant,,,,#17,1,
+,The Code of the Warrior,Rick Fields,,,,#74,1,
+,The Conquest of a Continent,Madison Grant,,,,#17,1,
+,The Corporate State,Benito Mussolini,,,,#62,1,
+,The Euro-Soviet Empire,Jean Thiriart,,,,#18,1,
+,The First War of Indian Independence,Vinayak Damodar Savarkar,,,,#14,1,
+,The German State on a National and Socialist Foundation,Gottfried Feder,,,,#15,1,
+,The Great Replacement,Renaud Camus,,,,"#4, #10, #40, #50, #60, #63, #70, #73, #86, #100",10,
+,The Long March of the National Revolutionaries,Jean Thiriart,,,,#18,1,
+,The Lord,Romano Guardini,,,,#24,1,
+,The Moral and Intellectual Diversity of Races,Arthur de Gobineau,,,,#17,1,
+,The National Socialist Economy,Gottfried Feder,,,,#41,1,
+,The Odinist Religion: Overcoming Jewish Christianity,Alexander Rud Mills,,,,#52,1,
+,The Oresteia,Aeschylus,,,,#77,1,
+,The Philosophy of Art,Giovanni Gentile,,,,#18,1,
+,The Philosophy of Fascism,Giovanni Gentile,,,,#41,1,
+,The Rising Tide of Color,Lothrop Stoddard,,,,#17,1,
+,The Third Position,O. E. Nordahl,,,,#44,1,
+,The Total Work of Art in European Modernism,David Roberts,,,,#56,1,
+,The Truth of Christian Gnosis,Jean Borella,,,,#9,1,
+,The Turner Diaries,William Luther Pierce (as Andrew Macdonald),,,,"#4, #30, #53",3,
+,The Virtues of Vengeance,Peter A. French,,,,#77,1,
+,The White Nationalist Manifesto,Greg Johnson,,,,#60,1,
+,Theory of Japanese History,Shumei Okawa,,,,#14,1,
+,Tomorrow We Live,Oswald Mosley,,,,#2,1,
+,Towards a Europe of Nations,Jean Thiriart,,,,#18,1,
+,Types of Economic Theory,Othmar Spann,,,,#15,1,
+,Victoria: A Novel of 4th Generation War,William S. Lind,,,,#30,1,
+,White Identity: Racial Consciousness in the 21st Century,Jared Taylor,,,,#86,1,

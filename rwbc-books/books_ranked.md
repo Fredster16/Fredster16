@@ -1,0 +1,426 @@
+# Right Wing Book Club (@albnwv0): every book, ranked
+
+Every book shown on a slide in the TikTok series "Right Wing Book Club" by [@albnwv0](https://www.tiktok.com/@albnwv0) (episodes 1–100 plus specials), scraped 2026-10-14.
+
+**402 unique books** (331 ranked, 71 without a usable Goodreads rating). Score = Goodreads average × 2. The creator never rates books themselves. ⚠️ marks books with 10–99 Goodreads ratings, where the score is less reliable. Episodes 7, 11, 12 and 25 are not on the account (the creator skipped reposting ones that had drawn TikTok strikes), so their books are not included.
+
+## Ranked, highest to lowest
+
+- **9.30/10** — *Escolios a un Texto Implícito, Vol. II* — Nicolás Gómez Dávila (127 ratings) · ep #20
+- **9.24/10** — *Into the Darkness* — Lothrop Stoddard (84 ratings) ⚠️ · ep #17
+- **9.14/10** — *Notas* — Nicolás Gómez Dávila (30 ratings) ⚠️ · ep #20
+- **9.12/10** — *The Spirit of the Liturgy* — Romano Guardini (2,386 ratings) · ep #24
+- **9.00/10** — *Embrace the Sun* — Marc Sorenson & William Grant (18 ratings) ⚠️ · ep #91
+- **8.98/10** — *Scholia to an Implicit Text* — Nicolás Gómez Dávila (145 ratings) · ep #20
+- **8.90/10** — *The Sea of Fertility (tetralogy)* — Yukio Mishima (661 ratings) · ep #6, #26
+- **8.88/10** — *The Emerald Tablet of Hermes* — Hermes Trismegistus (902 ratings) · ep #95, #100
+- **8.86/10** — *The Gift of Good Land* — Wendell Berry (587 ratings) · ep #92
+- **8.84/10** — *The Crisis of Modernity* — Augusto Del Noce (102 ratings) · ep #24
+- **8.82/10** — *The Great Triad* — René Guénon (110 ratings) · ep #5
+- **8.82/10** — *Mirror of the Intellect* — Titus Burckhardt (34 ratings) ⚠️ · ep #9
+- **8.82/10** — *On Genetic Interests* — Frank Salter (32 ratings) ⚠️ · ep #46, #60, #64, #86
+- **8.80/10** — *The Brothers Karamazov* — Fyodor Dostoevsky (418,602 ratings) · ep #28
+- **8.80/10** — *Gates of Fire* — Steven Pressfield (46,303 ratings) · ep #13
+- **8.80/10** — *Nutrition and Physical Degeneration* — Weston A. Price (2,323 ratings) · ep #91
+- **8.80/10** — *The Enemy of Europe* — Francis Parker Yockey (77 ratings) ⚠️ · ep #6, #18, #22
+- **8.78/10** — *Discourses, Fragments, Handbook* — Epictetus (13,342 ratings) · ep #81
+- **8.78/10** — *The Coming Caesars* — Amaury de Riencourt (101 ratings) · ep #69
+- **8.76/10** — *Witness* — Whittaker Chambers (2,456 ratings) · ep #66
+- **8.74/10** — *Mere Christianity* — C.S. Lewis (477,261 ratings) · ep #28
+- **8.74/10** — *Aion: Researches into the Phenomenology of the Self* — C. G. Jung (1,766 ratings) · ep #96
+- **8.74/10** — *Alchemy: An Introduction to the Symbolism and the Psychology* — Marie-Louise von Franz (888 ratings) · ep #96
+- **8.72/10** — *The Master and His Emissary* — Iain McGilchrist (4,470 ratings) · ep #83
+- **8.72/10** — *Dynamics of World History* — Christopher Dawson (109 ratings) · ep #24
+- **8.72/10** — *The Underlying Religion: An Introduction to the Perennial Philosophy* — Martin Lings & Clinton Minnaar (eds.) (47 ratings) ⚠️ · ep #31
+- **8.72/10** — *Giovanni Gentile: Philosopher of Fascism* — A. James Gregor (39 ratings) ⚠️ · ep #43
+- **8.70/10** — *The King's Two Bodies* — Ernst H. Kantorowicz (525 ratings) · ep #97
+- **8.70/10** — *The State* — Anthony de Jasay (55 ratings) ⚠️ · ep #70
+- **8.70/10** — *Revolution from the Middle* — Samuel T. Francis (20 ratings) ⚠️ · ep #27
+- **8.68/10** — *Hermetica* — Hermes Trismegistus (1,069 ratings) · ep #95
+- **8.68/10** — *Giordano Bruno and the Hermetic Tradition* — Frances A. Yates (717 ratings) · ep #95
+- **8.68/10** — *The Path of Cinnabar* — Julius Evola (164 ratings) · ep #49, #63, #68, #79
+- **8.68/10** — *Leviathan and Its Enemies* — Samuel T. Francis (145 ratings) · ep #27
+- **8.68/10** — *The Culture of Critique* — Kevin MacDonald (96 ratings) ⚠️ · ep #46, #72
+- **8.66/10** — *The Unsettling of America* — Wendell Berry (7,085 ratings) · ep #92
+- **8.66/10** — *Jung and the Alchemical Imagination* — Jeffrey Raff (212 ratings) · ep #96
+- **8.64/10** — *Letters from a Stoic* — Seneca (62,050 ratings) · ep #13
+- **8.64/10** — *Psychology and Alchemy* — C. G. Jung (2,609 ratings) · ep #96
+- **8.64/10** — *The Reign of Quantity and the Signs of the Times* — René Guénon (780 ratings) · ep #5, #16, #31, #39, #48, #54, #58, #68, #71, #79, #80, #82, #88, #93
+- **8.64/10** — *Six Glorious Epochs of Indian History* — Vinayak Damodar Savarkar (376 ratings) · ep #14
+- **8.62/10** — *Demons* — Fyodor Dostoevsky (68,445 ratings) · ep #28
+- **8.62/10** — *The Technological Society* — Jacques Ellul (1,330 ratings) · ep #53
+- **8.62/10** — *The Doctrine of Awakening* — Julius Evola (382 ratings) · ep #9, #16, #19, #34, #39, #68, #79, #80, #85, #93, #96
+- **8.62/10** — *The Dispossessed Majority* — Wilmot Robertson (67 ratings) ⚠️ · ep #72, #86
+- **8.62/10** — *The Door in the Sky* — Ananda K. Coomaraswamy (26 ratings) ⚠️ · ep #94
+- **8.60/10** — *The Populist Delusion* — Neema Parvini (596 ratings) · ep #70
+- **8.58/10** — *Crime and Punishment* — Fyodor Dostoevsky (1,167,251 ratings) · ep #28
+- **8.58/10** — *Gold in the Furnace* — Savitri Devi (58 ratings) ⚠️ · ep #9, #23
+- **8.58/10** — *American Ideals* — Theodore Roosevelt (14 ratings) ⚠️ · ep #13
+- **8.56/10** — *The One and the Many* — W. Norris Clarke (284 ratings) · ep #34
+- **8.56/10** — *The Shock of History* — Dominique Venner (165 ratings) · ep #20
+- **8.56/10** — *The Ethnic Phenomenon* — Pierre van den Berghe (47 ratings) ⚠️ · ep #86
+- **8.54/10** — *Meditations* — Marcus Aurelius (385,265 ratings) · ep #1, #13, #37
+- **8.54/10** — *Discourses* — Epictetus (5,694 ratings) · ep #13
+- **8.54/10** — *Hollywood Party* — Kenneth Lloyd Billingsley (66 ratings) ⚠️ · ep #72
+- **8.52/10** — *The Gay Science* — Friedrich Nietzsche (21,579 ratings) · ep #28, #33, #85, #87
+- **8.52/10** — *The Machiavellians: Defenders of Freedom* — James Burnham (2,186 ratings) · ep #4, #55, #59, #64
+- **8.52/10** — *The Making of Europe* — Christopher Dawson (155 ratings) · ep #24
+- **8.52/10** — *Spiritual Perspectives and Human Facts* — Frithjof Schuon (39 ratings) ⚠️ · ep #39
+- **8.50/10** — *Main Currents of Marxism* — Leszek Kołakowski (463 ratings) · ep #66
+- **8.50/10** — *Symbols of Sacred Science* — René Guénon (393 ratings) · ep #99
+- **8.48/10** — *Runaway Horses* — Yukio Mishima (9,785 ratings) · ep #14, #20
+- **8.48/10** — *The National System of Political Economy* — Friedrich List (148 ratings) · ep #15, #62
+- **8.46/10** — *The Enchiridion* — Epictetus (39,260 ratings) · ep #13
+- **8.46/10** — *Human, All Too Human* — Friedrich Nietzsche (11,028 ratings) · ep #33
+- **8.46/10** — *Churchill, Hitler, and "The Unnecessary War"* — Patrick Buchanan (2,336 ratings) · ep #10
+- **8.46/10** — *Alchemy: Science of the Cosmos, Science of the Soul* — Titus Burckhardt (259 ratings) · ep #94, #95
+- **8.46/10** — *Contributions to Philosophy* — Martin Heidegger (222 ratings) · ep #8
+- **8.44/10** — *The World as Will and Representation* — Arthur Schopenhauer (11,507 ratings) · ep #37
+- **8.44/10** — *Life at the Bottom: The Worldview That Makes the Underclass* — Theodore Dalrymple (4,293 ratings) · ep #10
+- **8.44/10** — *Man and His Becoming According to the Vedanta* — René Guénon (250 ratings) · ep #5, #16, #48
+- **8.42/10** — *Man's Search for Himself* — Rollo May (4,338 ratings) · ep #79
+- **8.42/10** — *The Myth of the Eternal Return (Cosmos and History)* — Mircea Eliade (3,513 ratings) · ep #97, #99
+- **8.42/10** — *The English and Their History* — Robert Tombs (2,905 ratings) · ep #81, #89
+- **8.42/10** — *The Fate of Empires and Search for Survival* — Sir John Glubb (774 ratings) · ep #65, #71
+- **8.42/10** — *The Nature and Art of Workmanship* — David Pye (196 ratings) · ep #92
+- **8.42/10** — *Histoire et tradition des Européens* — Dominique Venner (29 ratings) ⚠️ · ep #20
+- **8.40/10** — *Orthodoxy* — G. K. Chesterton (43,969 ratings) · ep #34
+- **8.40/10** — *The Seven Military Classics of Ancient China* — Ralph D. Sawyer (trans.) (614 ratings) · ep #8
+- **8.40/10** — *Spiritual Authority and Temporal Power* — René Guénon (232 ratings) · ep #97
+- **8.40/10** — *A People That Shall Dwell Alone* — Kevin MacDonald (133 ratings) · ep #46
+- **8.40/10** — *Mitra-Varuna* — Georges Dumézil (112 ratings) · ep #99
+- **8.40/10** — *Formalism in Ethics and Non-Formal Ethics of Values* — Max Scheler (46 ratings) ⚠️ · ep #24
+- **8.38/10** — *Nourishing Traditions* — Sally Fallon Morell (14,183 ratings) · ep #91
+- **8.36/10** — *Desert Solitaire* — Edward Abbey (56,437 ratings) · ep #91
+- **8.36/10** — *The Lightning and the Sun* — Savitri Devi (284 ratings) · ep #9, #23, #47, #65, #71, #75, #80, #85, #88, #93
+- **8.36/10** — *The Multiple States of the Being* — René Guénon (173 ratings) · ep #48, #68, #79, #82, #93
+- **8.34/10** — *Amusing Ourselves to Death* — Neil Postman (41,910 ratings) · ep #72
+- **8.34/10** — *Storm of Steel* — Ernst Jünger (23,713 ratings) · ep #2, #6, #20, #74, #75, #76, #84, #90, #98, #100
+- **8.34/10** — *The End of the Modern World* — Romano Guardini (327 ratings) · ep #24
+- **8.34/10** — *Religion and the Rise of Western Culture* — Christopher Dawson (295 ratings) · ep #24
+- **8.34/10** — *The Tradition of Household Spirits* — Claude Lecouteux (260 ratings) · ep #52
+- **8.32/10** — *Notes from Underground* — Fyodor Dostoevsky (263,634 ratings) · ep #28
+- **8.32/10** — *The Myth of Sisyphus* — Albert Camus (110,626 ratings) · ep #28
+- **8.32/10** — *The Sovereign Individual* — James Dale Davidson & William Rees-Mogg (4,447 ratings) · ep #69
+- **8.32/10** — *The Carnivore Code* — Paul Saladino (2,528 ratings) · ep #91
+- **8.32/10** — *Daybreak (The Dawn of Day)* — Friedrich Nietzsche (2,406 ratings) · ep #33
+- **8.32/10** — *The Art of Memory* — Frances A. Yates (1,630 ratings) · ep #95
+- **8.32/10** — *Globalists: The End of Empire and the Birth of Neoliberalism* — Quinn Slobodian (1,025 ratings) · ep #70
+- **8.32/10** — *The Death of Tragedy* — George Steiner (311 ratings) · ep #76
+- **8.32/10** — *Sacred Art in East and West* — Titus Burckhardt (67 ratings) ⚠️ · ep #9, #94
+- **8.30/10** — *On the Shortness of Life* — Seneca (49,787 ratings) · ep #13
+- **8.30/10** — *The Strange Death of Europe* — Douglas Murray (13,177 ratings) · ep #57, #70, #73
+- **8.30/10** — *The Question Concerning Technology* — Martin Heidegger (2,330 ratings) · ep #8
+- **8.30/10** — *The Collapse of Complex Societies* — Joseph Tainter (1,587 ratings) · ep #53, #69
+- **8.30/10** — *The Interpretation of Fairy Tales* — Marie-Louise von Franz (1,285 ratings) · ep #96
+- **8.30/10** — *Esoterism as Principle and as Way* — Frithjof Schuon (46 ratings) ⚠️ · ep #16, #94
+- **8.28/10** — *The Conservative Mind* — Russell Kirk (1,782 ratings) · ep #32
+- **8.28/10** — *Our Culture, What's Left of It* — Theodore Dalrymple (1,612 ratings) · ep #10
+- **8.28/10** — *The Hermetic Tradition* — Julius Evola (599 ratings) · ep #51, #68, #82, #93, #94, #95, #99
+- **8.28/10** — *Not With a Bang But a Whimper* — Theodore Dalrymple (469 ratings) · ep #10
+- **8.28/10** — *The Birth of Fascist Ideology* — Zeev Sternhell (166 ratings) · ep #43
+- **8.28/10** — *The Revolt Against Civilization* — Lothrop Stoddard (118 ratings) · ep #17
+- **8.28/10** — *The Age of Secularization* — Augusto Del Noce (21 ratings) ⚠️ · ep #24
+- **8.26/10** — *The Problem of Pain* — C.S. Lewis (77,612 ratings) · ep #28
+- **8.26/10** — *The Rebel* — Albert Camus (20,007 ratings) · ep #28
+- **8.26/10** — *Summa Theologica* — Thomas Aquinas (4,197 ratings) · ep #37
+- **8.26/10** — *Democracy: The God That Failed* — Hans-Hermann Hoppe (2,629 ratings) · ep #38, #59
+- **8.26/10** — *Four Arguments for the Elimination of Television* — Jerry Mander (1,509 ratings) · ep #72
+- **8.26/10** — *Introduction to the Study of the Hindu Doctrines* — René Guénon (444 ratings) · ep #16
+- **8.26/10** — *The Passing of an Illusion* — François Furet (142 ratings) · ep #66
+- **8.26/10** — *Recognitions* — Julius Evola (39 ratings) ⚠️ · ep #51
+- **8.24/10** — *The Abolition of Man* — C.S. Lewis (43,864 ratings) · ep #28, #67, #83
+- **8.24/10** — *On the Genealogy of Morality* — Friedrich Nietzsche (38,520 ratings) · ep #13, #33, #64, #77, #78, #82
+- **8.24/10** — *The Perennial Philosophy* — Aldous Huxley (6,747 ratings) · ep #81
+- **8.24/10** — *The Strange Death of Liberal England* — George Dangerfield (473 ratings) · ep #89
+- **8.24/10** — *The Hour of Decision* — Oswald Spengler (184 ratings) · ep #8, #65, #71
+- **8.24/10** — *Perspectives on Initiation* — René Guénon (129 ratings) · ep #94
+- **8.24/10** — *Christian and Oriental Philosophy of Art* — Ananda K. Coomaraswamy (121 ratings) · ep #16
+- **8.22/10** — *The Sacred and the Profane* — Mircea Eliade (9,547 ratings) · ep #97, #99
+- **8.22/10** — *The Divided Self* — R. D. Laing (6,685 ratings) · ep #83
+- **8.22/10** — *Patriotism* — Yukio Mishima (5,049 ratings) · ep #6, #14
+- **8.20/10** — *Untimely Meditations* — Friedrich Nietzsche (2,471 ratings) · ep #33
+- **8.20/10** — *Men Among the Ruins* — Julius Evola (746 ratings) · ep #1, #5, #9, #13, #16, #18, #19, #28, #43, #55, #64, #78, #80, #97
+- **8.20/10** — *The Metaphysics of Sex (Eros and the Mysteries of Love)* — Julius Evola (587 ratings) · ep #19
+- **8.18/10** — *Suicide of the West* — James Burnham (607 ratings) · ep #32
+- **8.18/10** — *How We Invented Freedom & Why It Matters (Inventing Freedom)* — Daniel Hannan (574 ratings) · ep #89
+- **8.18/10** — *The Mystery of the Grail* — Julius Evola (541 ratings) · ep #19
+- **8.18/10** — *Meditations on the Peaks* — Julius Evola (387 ratings) · ep #19
+- **8.18/10** — *The Egyptian Hermes* — Garth Fowden (76 ratings) ⚠️ · ep #95
+- **8.16/10** — *Discourses on Livy* — Niccolo Machiavelli (10,080 ratings) · ep #8
+- **8.16/10** — *The Gift of Death* — Jacques Derrida (1,113 ratings) · ep #87
+- **8.16/10** — *The Yoga of Power* — Julius Evola (343 ratings) · ep #51, #61, #68, #80, #84, #90
+- **8.16/10** — *Genesis and Structure of Society* — Giovanni Gentile (12 ratings) ⚠️ · ep #15, #18
+- **8.14/10** — *Thus Spoke Zarathustra* — Friedrich Nietzsche (184,975 ratings) · ep #1, #6, #13, #28, #33, #54, #58, #61, #75, #76, #78, #85, #87
+- **8.14/10** — *The Will to Power* — Friedrich Nietzsche (11,541 ratings) · ep #28, #55, #58, #75, #77, #82, #85, #87
+- **8.14/10** — *The Crisis of the Modern World* — René Guénon (2,520 ratings) · ep #5, #16, #31, #42, #54, #57, #58, #63, #68, #79, #80, #88, #93, #94, #96, #100
+- **8.14/10** — *Suicide of a Superpower* — Patrick Buchanan (903 ratings) · ep #10
+- **8.14/10** — *The Triumph of the Therapeutic* — Philip Rieff (259 ratings) · ep #83
+- **8.12/10** — *Surprised by Joy* — C.S. Lewis (71,632 ratings) · ep #28
+- **8.12/10** — *The Warrior Ethos* — Steven Pressfield (5,160 ratings) · ep #13, #61, #87
+- **8.12/10** — *The Decline of the West* — Oswald Spengler (2,363 ratings) · ep #2, #8, #22, #29, #32, #38, #42, #57, #65, #71, #81, #88, #100
+- **8.12/10** — *Imperium* — Francis Parker Yockey (477 ratings) · ep #3, #6, #18, #22, #29, #40, #42, #71, #88
+- **8.12/10** — *The Transcendent Unity of Religions* — Frithjof Schuon (263 ratings) · ep #16, #31, #39, #48, #94, #100
+- **8.10/10** — *Being and Time* — Martin Heidegger (28,899 ratings) · ep #3, #8, #34
+- **8.10/10** — *The Primal Blueprint* — Mark Sisson (8,835 ratings) · ep #91
+- **8.10/10** — *The God That Failed* — Richard Crossman (ed.) (487 ratings) · ep #66
+- **8.10/10** — *Fascism (Oxford Readers)* — Roger Griffin (273 ratings) · ep #44
+- **8.10/10** — *After Liberalism: Mass Democracy in the Managerial State* — Paul Gottfried (135 ratings) · ep #59
+- **8.10/10** — *Beautiful Losers* — Samuel T. Francis (109 ratings) · ep #27
+- **8.10/10** — *Homo Americanus: Child of the Postmodern Age* — Tomislav Sunić (65 ratings) ⚠️ · ep #45, #57
+- **8.10/10** — *Nova Europa: European Survival Strategy in a Darkening World* — Arthur Kemp (38 ratings) ⚠️ · ep #60, #86
+- **8.08/10** — *The Denial of Death* — Ernest Becker (17,054 ratings) · ep #76, #78, #85
+- **8.08/10** — *Ressentiment* — Max Scheler (346 ratings) · ep #24
+- **8.08/10** — *Understanding Islam* — Frithjof Schuon (269 ratings) · ep #16
+- **8.08/10** — *Living Within Limits: Ecology, Economics, and Population Taboos* — Garrett Hardin (227 ratings) · ep #36
+- **8.08/10** — *England: An Elegy* — Roger Scruton (191 ratings) · ep #89
+- **8.08/10** — *The Gnostic Jung* — C. G. Jung (ed. Robert A. Segal) (106 ratings) · ep #96
+- **8.06/10** — *The Stranger* — Albert Camus (1,541,373 ratings) · ep #28
+- **8.06/10** — *Beyond Good and Evil* — Friedrich Nietzsche (121,286 ratings) · ep #6, #13, #28, #32, #33, #64, #82
+- **8.06/10** — *The Revolt of the Masses* — José Ortega y Gasset (6,924 ratings) · ep #72
+- **8.06/10** — *Introduction to Metaphysics* — Martin Heidegger (4,470 ratings) · ep #8, #34
+- **8.06/10** — *Tragic Sense of Life* — Miguel de Unamuno (2,576 ratings) · ep #76, #78, #79, #85
+- **8.06/10** — *Human Diversity: The Biology of Gender, Race, and Class* — Charles Murray (905 ratings) · ep #64
+- **8.06/10** — *The Racial Elements of European History* — Hans F. K. Günther (38 ratings) ⚠️ · ep #17
+- **8.04/10** — *The Plague* — Albert Camus (335,386 ratings) · ep #28
+- **8.04/10** — *The Golden Bough* — James George Frazer (8,848 ratings) · ep #99
+- **8.04/10** — *The White Goddess* — Robert Graves (3,669 ratings) · ep #99
+- **8.04/10** — *Metaphysics of War* — Julius Evola (915 ratings) · ep #28, #34, #51, #61, #75, #77, #84, #90, #98
+- **8.04/10** — *The Essential Titus Burckhardt: Reflections on Sacred Art, Faiths, and Civilizations* — Titus Burckhardt (47 ratings) ⚠️ · ep #31, #48
+- **8.04/10** — *America's Half-Blood Prince* — Steve Sailer (41 ratings) ⚠️ · ep #27
+- **8.02/10** — *Nicomachean Ethics* — Aristotle (63,725 ratings) · ep #37, #74
+- **8.02/10** — *The Black Book of Communism* — Stéphane Courtois et al. (1,172 ratings) · ep #66
+- **8.02/10** — *Pagan Imperialism* — Julius Evola (175 ratings) · ep #19, #52
+- **8.00/10** — *The Worker* — Ernst Jünger (215 ratings) · ep #6, #20, #90, #98
+- **8.00/10** — *Christ the Original Mystery* — Jean Borella (16 ratings) ⚠️ · ep #9
+- **8.00/10** — *The Problem of Atheism* — Augusto Del Noce (13 ratings) ⚠️ · ep #24
+- **8.00/10** — *The Sense of the Supernatural* — Jean Borella (13 ratings) ⚠️ · ep #9
+- **7.98/10** — *Hagakure: The Way of the Samurai* — Yamamoto Tsunetomo (17,265 ratings) · ep #98
+- **7.98/10** — *The Death of the West* — Patrick J. Buchanan (1,669 ratings) · ep #10, #57, #70, #73
+- **7.98/10** — *An Introduction to Sufi Doctrine* — Titus Burckhardt (91 ratings) ⚠️ · ep #9
+- **7.96/10** — *Revolt Against the Modern World* — Julius Evola (2,498 ratings) · ep #5, #9, #16, #18, #19, #22, #28, #29, #31, #38, #39, #42, #54, #58, #64, #65, #71, #80, #88, #93, #100
+- **7.96/10** — *The Diversity Delusion* — Heather Mac Donald (1,903 ratings) · ep #67
+- **7.96/10** — *The Soviet Tragedy: A History of Socialism in Russia, 1917-1991* — Martin Malia (227 ratings) · ep #66
+- **7.96/10** — *Why We Fight: Manifesto of the European Resistance* — Guillaume Faye (158 ratings) · ep #10, #38, #44, #57, #58
+- **7.94/10** — *The Republic* — Plato (234,107 ratings) · ep #37
+- **7.94/10** — *The Temple of the Golden Pavilion* — Yukio Mishima (27,249 ratings) · ep #20, #26
+- **7.94/10** — *The Birth of Tragedy* — Friedrich Nietzsche (22,581 ratings) · ep #6, #33, #61, #76
+- **7.94/10** — *Phenomenology of Spirit* — G. W. F. Hegel (21,283 ratings) · ep #37
+- **7.94/10** — *The Abolition of Britain* — Peter Hitchens (911 ratings) · ep #89
+- **7.94/10** — *The Nature of Fascism* — Roger Griffin (129 ratings) · ep #56
+- **7.92/10** — *The War of Art* — Steven Pressfield (124,998 ratings) · ep #13
+- **7.92/10** — *Critique of Pure Reason* — Immanuel Kant (44,592 ratings) · ep #37
+- **7.92/10** — *The City of God* — Saint Augustine of Hippo (14,250 ratings) · ep #34
+- **7.92/10** — *The Culture of Narcissism* — Christopher Lasch (4,555 ratings) · ep #83
+- **7.92/10** — *Beauty* — Roger Scruton (2,962 ratings) · ep #20, #81, #92
+- **7.92/10** — *Ride the Tiger* — Julius Evola (1,850 ratings) · ep #4, #5, #9, #13, #16, #18, #19, #28, #31, #32, #40, #54, #58, #78, #79, #85, #87, #93
+- **7.92/10** — *Culture Counts* — Roger Scruton (412 ratings) · ep #20
+- **7.92/10** — *The Winning of the West* — Theodore Roosevelt (85 ratings) ⚠️ · ep #13
+- **7.90/10** — *History of the Peloponnesian War* — Thucydides (41,696 ratings) · ep #81
+- **7.90/10** — *Twilight of the Idols* — Friedrich Nietzsche (15,436 ratings) · ep #6, #33, #54
+- **7.90/10** — *On War* — Carl von Clausewitz (14,920 ratings) · ep #98
+- **7.90/10** — *The Concept of the Political* — Carl Schmitt (3,903 ratings) · ep #3, #5, #22, #32, #44, #59, #64, #97
+- **7.90/10** — *Introduction to Magic* — Julius Evola (UR Group) (233 ratings) · ep #51, #68, #82, #94, #95
+- **7.90/10** — *The Religious Attitudes of the Indo-Europeans* — Hans F. K. Günther (60 ratings) ⚠️ · ep #17
+- **7.90/10** — *The Proclamation of London* — Francis Parker Yockey (41 ratings) ⚠️ · ep #6, #18, #22
+- **7.88/10** — *The Art of War* — Sun Tzu (600,836 ratings) · ep #2, #8, #98
+- **7.88/10** — *The Iliad* — Homer (540,194 ratings) · ep #74, #77, #81, #84, #87, #100
+- **7.88/10** — *The Decay of Lying* — Oscar Wilde (2,776 ratings) · ep #57
+- **7.88/10** — *The Revolt of the Elites and the Betrayal of Democracy* — Christopher Lasch (1,597 ratings) · ep #55, #59
+- **7.88/10** — *On Friendship* — Cicero (1,191 ratings) · ep #74
+- **7.88/10** — *Man and Technics: A Contribution to a Philosophy of Life* — Oswald Spengler (1,105 ratings) · ep #8, #42, #54, #58, #62, #69, #88
+- **7.88/10** — *Fascism: Style and Spectacle (Fascist Spectacle: The Aesthetics of Power)* — Simonetta Fraquelli & Matthew Affron (77 ratings) ⚠️ · ep #56
+- **7.88/10** — *The Greater Britain* — Oswald Mosley (68 ratings) ⚠️ · ep #5
+- **7.86/10** — *The Book of Five Rings* — Miyamoto Musashi (65,499 ratings) · ep #84, #90
+- **7.86/10** — *The Soul of Man Under Socialism* — Oscar Wilde (6,747 ratings) · ep #83
+- **7.86/10** — *The Strenuous Life* — Theodore Roosevelt (1,385 ratings) · ep #13
+- **7.86/10** — *The Identitarians* — José Javier Esparza (27 ratings) ⚠️ · ep #49, #50
+- **7.84/10** — *Political Theology* — Carl Schmitt (2,099 ratings) · ep #5
+- **7.84/10** — *Discourse on Thinking* — Martin Heidegger (748 ratings) · ep #8
+- **7.84/10** — *Modern Capitalism* — Werner Sombart (109 ratings) · ep #15
+- **7.84/10** — *The Jews and Modern Capitalism* — Werner Sombart (109 ratings) · ep #15
+- **7.84/10** — *The Coming Corporate State* — Alexander Raven Thomson (39 ratings) ⚠️ · ep #62
+- **7.82/10** — *The Camp of the Saints* — Jean Raspail (2,850 ratings) · ep #30, #32, #38, #60, #70, #73, #100
+- **7.82/10** — *The Dance of Shiva* — Ananda K. Coomaraswamy (285 ratings) · ep #16
+- **7.80/10** — *The Gift* — Marcel Mauss (3,978 ratings) · ep #87
+- **7.80/10** — *The Library of Greek Mythology* — Apollodorus (2,643 ratings) · ep #81
+- **7.80/10** — *On Being a Pagan* — Alain de Benoist (208 ratings) · ep #5, #38, #45, #52, #57, #63
+- **7.80/10** — *Fascism for the Million* — Oswald Mosley (114 ratings) · ep #5
+- **7.80/10** — *The Bow and the Club* — Julius Evola (108 ratings) · ep #51, #75, #84, #87
+- **7.80/10** — *Breath: The New Science of a Lost Art* — James Nestor (20 ratings) ⚠️ · ep #91
+- **7.78/10** — *The Crisis of Parliamentary Democracy* — Carl Schmitt (459 ratings) · ep #59
+- **7.78/10** — *Alien Nation* — Peter Brimelow (152 ratings) · ep #73
+- **7.76/10** — *The Antichrist* — Friedrich Nietzsche (34,363 ratings) · ep #33
+- **7.76/10** — *Becoming a Barbarian* — Jack Donovan (1,492 ratings) · ep #74
+- **7.76/10** — *On Pain* — Ernst Jünger (785 ratings) · ep #6
+- **7.76/10** — *Art of the Third Reich* — Peter Adam (75 ratings) ⚠️ · ep #56
+- **7.74/10** — *East and West* — René Guénon (414 ratings) · ep #39, #48
+- **7.72/10** — *The Odyssey* — Homer (1,294,799 ratings) · ep #81
+- **7.72/10** — *The Fourth Turning* — William Strauss & Neil Howe (8,060 ratings) · ep #65, #71
+- **7.72/10** — *How to Think Seriously About the Planet* — Roger Scruton (456 ratings) · ep #36
+- **7.72/10** — *Legality and Legitimacy* — Carl Schmitt (139 ratings) · ep #5
+- **7.72/10** — *Hinduism and Buddhism* — Ananda K. Coomaraswamy (123 ratings) · ep #16, #94
+- **7.72/10** — *View from the Right* — Alain de Benoist (37 ratings) ⚠️ · ep #49
+- **7.70/10** — *A Handbook for Right-Wing Youth* — Julius Evola (228 ratings) · ep #2, #5, #13, #49, #50
+- **7.70/10** — *The Problem of Democracy* — Alain de Benoist (157 ratings) · ep #5, #45
+- **7.70/10** — *My Life* — Oswald Mosley (110 ratings) · ep #5
+- **7.68/10** — *The Prince* — Niccolo Machiavelli (402,732 ratings) · ep #2, #8
+- **7.68/10** — *Industrial Society and Its Future* — Theodore John Kaczynski (13,638 ratings) · ep #36
+- **7.68/10** — *The Craftsman* — Richard Sennett (2,072 ratings) · ep #92
+- **7.68/10** — *Fanged Noumena* — Nick Land (1,376 ratings) · ep #27, #53
+- **7.68/10** — *Gothic Violence* — Mike Ma (1,092 ratings) · ep #3, #6, #27, #30
+- **7.68/10** — *The Occult Roots of Nazism* — Nicholas Goodrick-Clarke (732 ratings) · ep #47
+- **7.68/10** — *The Aesthetics of Architecture* — Roger Scruton (119 ratings) · ep #20, #92
+- **7.66/10** — *The Sailor Who Fell from Grace with the Sea* — Yukio Mishima (57,800 ratings) · ep #26
+- **7.66/10** — *Race Differences in Intelligence* — Richard Lynn (101 ratings) · ep #46
+- **7.64/10** — *Bushido: The Soul of Japan* — Inazo Nitobe (10,846 ratings) · ep #84, #90, #98
+- **7.64/10** — *Sun and Steel* — Yukio Mishima (10,228 ratings) · ep #1, #6, #14, #20, #26, #40, #61, #84, #90, #98, #100
+- **7.64/10** — *Prussianism and Socialism* — Oswald Spengler (217 ratings) · ep #62, #88
+- **7.62/10** — *Ecce Homo* — Friedrich Nietzsche (21,140 ratings) · ep #33, #85
+- **7.62/10** — *Harassment Architecture* — Mike Ma (2,861 ratings) · ep #1, #6, #27, #53, #61
+- **7.62/10** — *Gods of the Ancient Northmen* — Georges Dumézil (207 ratings) · ep #99
+- **7.62/10** — *The Rise and Fall of Elites* — Vilfredo Pareto (192 ratings) · ep #55
+- **7.62/10** — *Orientations* — Julius Evola (84 ratings) ⚠️ · ep #19
+- **7.62/10** — *Mothers of Conservatism* — Michelle M. Nickerson (68 ratings) ⚠️ · ep #35
+- **7.60/10** — *Against Democracy and Equality: The European New Right* — Tomislav Sunić (148 ratings) · ep #44, #57, #59, #63
+- **7.58/10** — *The Way of Men* — Jack Donovan (7,478 ratings) · ep #61, #74, #84, #91
+- **7.58/10** — *Fascism Viewed from the Right* — Julius Evola (273 ratings) · ep #1, #18, #43
+- **7.58/10** — *The Case Against the Democratic State* — Gordon Graham (14 ratings) ⚠️ · ep #59
+- **7.56/10** — *On the Marble Cliffs* — Ernst Jünger (2,981 ratings) · ep #20
+- **7.54/10** — *The King of the World* — René Guénon (505 ratings) · ep #82, #97
+- **7.54/10** — *Impeachment of Man* — Savitri Devi (116 ratings) · ep #9, #23, #80
+- **7.52/10** — *The Closing of the American Mind* — Allan Bloom (6,076 ratings) · ep #67
+- **7.52/10** — *The Myth of Mental Illness* — Thomas Szasz (1,852 ratings) · ep #83
+- **7.50/10** — *The Tragic Mind* — Robert D. Kaplan (730 ratings) · ep #76
+- **7.50/10** — *The Road to 1945* — Paul Addison (60 ratings) ⚠️ · ep #89
+- **7.48/10** — *Shop Class as Soulcraft* — Matthew B. Crawford (11,539 ratings) · ep #92
+- **7.48/10** — *The Virtue of Nationalism* — Yoram Hazony (639 ratings) · ep #70, #86
+- **7.48/10** — *Black Sun: Aryan Cults, Esoteric Nazism and the Politics of Identity* — Nicholas Goodrick-Clarke (471 ratings) · ep #47, #56
+- **7.48/10** — *The Nature of Sympathy* — Max Scheler (62 ratings) ⚠️ · ep #24
+- **7.46/10** — *Albion: The Origins of the English Imagination* — Peter Ackroyd (598 ratings) · ep #89
+- **7.44/10** — *Lights Out: Sleep, Sugar, and Survival* — T. S. Wiley & Bent Formby (761 ratings) · ep #91
+- **7.42/10** — *Origins and Doctrine of Fascism* — Giovanni Gentile (215 ratings) · ep #18
+- **7.40/10** — *After the Banquet* — Yukio Mishima (3,531 ratings) · ep #26
+- **7.40/10** — *The Colonisation of Europe* — Guillaume Faye (20 ratings) ⚠️ · ep #10, #60, #73
+- **7.38/10** — *The Devil's Pleasure Palace* — Michael Walsh (441 ratings) · ep #67, #72
+- **7.38/10** — *Europe: Faith and Plan* — Oswald Mosley (13 ratings) ⚠️ · ep #5, #41
+- **7.36/10** — *On Heroes, Hero-Worship, and the Heroic in History* — Thomas Carlyle (1,051 ratings) · ep #75
+- **7.36/10** — *Beyond Human Rights* — Alain de Benoist (186 ratings) · ep #5, #45
+- **7.36/10** — *The Conservative Environmentalist* — Benji Backer (158 ratings) · ep #36
+- **7.36/10** — *Traditionalism: The Radical Project for Restoring Sacred Order* — Mark Sedgwick (90 ratings) ⚠️ · ep #36
+- **7.32/10** — *Archeofuturism* — Guillaume Faye (373 ratings) · ep #10, #40, #45, #57, #69
+- **7.30/10** — *The Road to Character* — David Brooks (27,083 ratings) · ep #83
+- **7.30/10** — *The Life of Castruccio Castracani* — Niccolo Machiavelli (303 ratings) · ep #8
+- **7.30/10** — *The Heartless* — Yi Kwang-su (172 ratings) · ep #14
+- **7.28/10** — *Fascinating Womanhood* — Helen B. Andelin (1,748 ratings) · ep #35
+- **7.28/10** — *Hindutva: Who Is a Hindu?* — Vinayak Damodar Savarkar (594 ratings) · ep #14
+- **7.26/10** — *The Case for Marriage* — Linda J. Waite & Maggie Gallagher (193 ratings) · ep #35
+- **7.24/10** — *Man's Place in Nature* — Max Scheler (378 ratings) · ep #24
+- **7.22/10** — *The Bell Curve* — Charles Murray & Richard Herrnstein (3,594 ratings) · ep #46, #86
+- **7.22/10** — *The Myth of the Twentieth Century* — Alfred Rosenberg (269 ratings) · ep #29
+- **7.22/10** — *The Real Right Returns* — Daniel Friberg (121 ratings) · ep #57, #63
+- **7.18/10** — *The Death of Learning* — John Agresto (63 ratings) ⚠️ · ep #67
+- **7.12/10** — *Reflections on Violence* — Georges Sorel (539 ratings) · ep #43
+- **7.12/10** — *Manifesto for a European Renaissance* — Alain de Benoist & Charles Champetier (208 ratings) · ep #4, #5, #40, #49
+- **7.02/10** — *The Song of Roland* — Anonymous (19,991 ratings) · ep #77, #87
+- **6.98/10** — *The Foundations of the Nineteenth Century* — Houston Stewart Chamberlain (47 ratings) ⚠️ · ep #17, #29
+- **6.86/10** — *The Secret King* — Karl Maria Wiligut (37 ratings) ⚠️ · ep #47
+- **6.84/10** — *It Takes a Family* — Rick Santorum (160 ratings) · ep #35
+- **6.82/10** — *Hard Green: Saving the Environment from the Environmentalists* — Peter W. Huber (85 ratings) ⚠️ · ep #36
+- **6.80/10** — *Essay on the Inequality of the Human Races* — Arthur de Gobineau (211 ratings) · ep #17
+- **6.78/10** — *Generation Identity: A Declaration of War Against the '68ers* — Markus Willinger (199 ratings) · ep #50
+- **6.68/10** — *Templexity* — Nick Land (105 ratings) · ep #27
+- **6.64/10** — *The Passing of the Great Race* — Madison Grant (189 ratings) · ep #17
+- **6.64/10** — *You Will Not Replace Us!* — Renaud Camus (44 ratings) ⚠️ · ep #10, #50, #60
+- **6.60/10** — *The Fourth Political Theory* — Alexander Dugin (807 ratings) · ep #69
+- **6.52/10** — *Addresses to the German Nation* — Johann Gottlieb Fichte (118 ratings) · ep #29
+- **6.46/10** — *The Dark Enlightenment* — Nick Land (826 ratings) · ep #27, #53
+- **6.16/10** — *The Doctrine of Fascism* — Benito Mussolini & Giovanni Gentile (1,492 ratings) · ep #15, #29, #43
+- **5.92/10** — *The Power of the Positive Woman* — Phyllis Schlafly (28 ratings) ⚠️ · ep #35
+
+## No usable Goodreads rating (not found, or fewer than 10 ratings)
+
+- *A Distant Thunder* — H. A. Covington · ep #30
+- *A Gentle Introduction to Unqualified Reservations* — Curtis Yarvin · ep #27
+- *A Study of History* — Arnold J. Toynbee · ep #42
+- *Actualism: Essays in Philosophy* — Giovanni Gentile · ep #18
+- *An Open Letter to Open-Minded Progressives* — Curtis Yarvin · ep #27
+- *Articles in Zeitschrift für Nationalökonomie* — Othmar Spann · ep #15
+- *Artists of the Right: Resisting Decadence* — Kerry Bolton · ep #45
+- *Civilisation as Divine Superman* — Alexander Raven Thomson (Goodreads: 10.00/10 from only 1 rating) · ep #81
+- *Comments on the Critique of Consciousness-Only* — Zhang Binglin · ep #14
+- *Defiance* — Savitri Devi · ep #9
+- *Der wahre Staat (The True State)* — Othmar Spann (Goodreads: 8.40/10 from only 5 ratings) · ep #15
+- *Doctrinal Texts of the Falange* — José Antonio Primo de Rivera · ep #18
+- *Erectus Walks Amongst Us* — Richard Fuerle · ep #46
+- *Essay on Nationalism* — Zhang Binglin · ep #14
+- *Fascism: Doctrine and Institutions* — Benito Mussolini · ep #41
+- *Figures of Speech or Figures of Thought?* — Ananda K. Coomaraswamy · ep #16
+- *Founding Manifesto of the Falange* — José Antonio Primo de Rivera · ep #18
+- *Freedom's Sons* — H. A. Covington · ep #30
+- *Frithjof Schuon and the Perennial Philosophy* — Harry Oldmeadow (Goodreads: 7.24/10 from only 8 ratings) · ep #3
+- *German Economic Policy* — Wilhelm Bauer (Goodreads: 7.34/10 from only 3 ratings) · ep #41
+- *Histoire de la Collaboration* — Dominique Venner (Goodreads: 10.00/10 from only 1 rating) · ep #20
+- *Il Problema dell'Autorità Sacra* — Guido De Giorgio · ep #16
+- *Immanuel Kant* — Houston Stewart Chamberlain · ep #17
+- *Introduction to the Holy War* — Shumei Okawa · ep #14
+- *Jeune Europe Manifestos* — Jean Thiriart · ep #18
+- *Kitchen Table Politics* — Stacie Taranto (Goodreads: 8.24/10 from only 8 ratings) · ep #35
+- *La Civiltà Romana* — Guido De Giorgio · ep #16
+- *La Tradizione Romana* — Guido De Giorgio (Goodreads: 7.00/10 from only 6 ratings) · ep #16
+- *Language of the Self* — Frithjof Schuon (Goodreads: 8.66/10 from only 9 ratings) · ep #16
+- *Le Changement de peuple* — Renaud Camus (Goodreads: 6.00/10 from only 3 ratings) · ep #10
+- *Lettere a Julius Evola* — Guido De Giorgio · ep #16
+- *Manifesto for the Abolition of Interest Slavery* — Gottfried Feder · ep #15, #41
+- *Nature and Nationalism: Right-Wing Ecology and the Politics of Identity in Contemporary Germany* — Jonathan Olsen (Goodreads: 7.00/10 from only 2 ratings) · ep #36
+- *On the Crisis of Japanese Civilization* — Shumei Okawa · ep #14
+- *On the Reconstruction of the National Spirit* — Yi Kwang-su · ep #14
+- *Oriental Despotism and the Fall of Civilizations* — Arthur de Gobineau · ep #17
+- *Outlines of American Political Economy* — Friedrich List (Goodreads: 10.00/10 from only 5 ratings) · ep #15
+- *Political Ideals* — Houston Stewart Chamberlain (Goodreads: 7.14/10 from only 7 ratings) · ep #17
+- *Racial Typology of the German People* — Hans F. K. Günther · ep #17
+- *Remigration: A Proposal* — Martin Sellner · ep #86
+- *Speech at the Teatro de la Comedia* — José Antonio Primo de Rivera · ep #18
+- *Tenured Radicals* — Roger Kimball · ep #67
+- *The Alien in Our Midst* — Madison Grant · ep #17
+- *The Code of the Warrior* — Rick Fields (Goodreads: 6.58/10 from only 7 ratings) · ep #74
+- *The Conquest of a Continent* — Madison Grant · ep #17
+- *The Corporate State* — Benito Mussolini (Goodreads: 6.00/10 from only 6 ratings) · ep #62
+- *The Euro-Soviet Empire* — Jean Thiriart · ep #18
+- *The First War of Indian Independence* — Vinayak Damodar Savarkar · ep #14
+- *The German State on a National and Socialist Foundation* — Gottfried Feder · ep #15
+- *The Great Replacement* — Renaud Camus (Goodreads: 10.00/10 from only 1 rating) · ep #4, #10, #40, #50, #60, #63, #70, #73, #86, #100
+- *The Long March of the National Revolutionaries* — Jean Thiriart · ep #18
+- *The Lord* — Romano Guardini · ep #24
+- *The Moral and Intellectual Diversity of Races* — Arthur de Gobineau · ep #17
+- *The National Socialist Economy* — Gottfried Feder · ep #41
+- *The Odinist Religion: Overcoming Jewish Christianity* — Alexander Rud Mills (Goodreads: 6.00/10 from only 2 ratings) · ep #52
+- *The Oresteia* — Aeschylus · ep #77
+- *The Philosophy of Art* — Giovanni Gentile (Goodreads: 7.00/10 from only 4 ratings) · ep #18
+- *The Philosophy of Fascism* — Giovanni Gentile · ep #41
+- *The Rising Tide of Color* — Lothrop Stoddard · ep #17
+- *The Third Position* — O. E. Nordahl (Goodreads: 8.00/10 from only 1 rating) · ep #44
+- *The Total Work of Art in European Modernism* — David Roberts (Goodreads: 6.80/10 from only 5 ratings) · ep #56
+- *The Truth of Christian Gnosis* — Jean Borella (Goodreads: 8.40/10 from only 5 ratings) · ep #9
+- *The Turner Diaries* — William Luther Pierce (as Andrew Macdonald) · ep #4, #30, #53
+- *The Virtues of Vengeance* — Peter A. French (Goodreads: 7.00/10 from only 6 ratings) · ep #77
+- *The White Nationalist Manifesto* — Greg Johnson · ep #60
+- *Theory of Japanese History* — Shumei Okawa · ep #14
+- *Tomorrow We Live* — Oswald Mosley · ep #2
+- *Towards a Europe of Nations* — Jean Thiriart · ep #18
+- *Types of Economic Theory* — Othmar Spann (Goodreads: 8.58/10 from only 7 ratings) · ep #15
+- *Victoria: A Novel of 4th Generation War* — William S. Lind · ep #30
+- *White Identity: Racial Consciousness in the 21st Century* — Jared Taylor · ep #86
+
+## Also featured (not books)
+
+- The Necessity of Myth (speech) — Jonathan Bowden · ep #21
+- The Art of the Right (speech) — Jonathan Bowden · ep #21
+- Western Civilization Bites Back (speech) — Jonathan Bowden · ep #21
+- Why Liberals Fear the Right (speech) — Jonathan Bowden · ep #21
+- Nietzsche and the Right (speech) — Jonathan Bowden · ep #21
+- The Cousin Marriage Conundrum (essay) — Steve Sailer · ep #27
+- The Affordable Family Formation Theory (essay) — Steve Sailer · ep #27
+- Of Revenge (essay) — Francis Bacon · ep #77
+- On Glory and Cyclical Nature (essay) — Albionwave (the account's own essay) · ep RWBC Special
+- Multicultural Suicide (essay) — Albionwave (the account's own essay) · ep RWBC Special
