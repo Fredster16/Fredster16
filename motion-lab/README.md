@@ -8,6 +8,8 @@ Code-driven vertical video (1080x1920, 30fps) for short-form edits, with every s
 - `house.py`: the chosen house style: Poster base with Signal accents, nothing on the frame edges
 - `pieces/`: finished videos timed to a voice line (the voice itself is never baked in)
   - `caps_world.py`: "Perfect. So theoretically I can get one of my caps into the hands of anyone in the world."
+  - `kane_chain.py`: "Let's take Harry Kane as an example... four people between me and him... Easy."
+    Needs `assets/private/me_bust.png` and `kane_bust.png` (cut-out photos, kept out of git).
 - `geo.py`: dot-matrix world map from `assets/land-110m.json` (Natural Earth via world-atlas)
 - `assets/`: cap cut-out, map data
 - `styles/`: the three original directions, each with `render(canvas, t)` and `audio(path)`
