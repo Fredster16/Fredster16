@@ -15,7 +15,7 @@ from engine import (W, H, ROOT, paint, prog, lerp, clamp, spring, ease_in_out, e
                     font, draw_text, path_from, trimmed)
 from house import (BONE, RED, INK, OCHRE, DISPLAY, LABEL, MONO, offset_text, word_line, line_size,
                    label_build, sticker, to_image, draw_image_centered, run_scenes, grain, glitch, shake,
-                   pop_scale)
+                   pop_scale, silhouette, tag_label)
 
 DURATION = 11.7  # recording is 10.73s; the extra second lets the punchline land
 
@@ -98,32 +98,6 @@ def apply_camera(c, t):
     c.translate(-kx, -ky)
 
 
-def silhouette(c, x, y, s, fill, mark, t, appear):
-    sc = spring(prog(t, appear, 0.35), 2.2, 6)
-    if sc <= 0:
-        return
-    c.save()
-    c.translate(x, y)
-    c.scale(sc, sc)
-    p = skia.Path()
-    p.addCircle(0, -0.2 * s, 0.25 * s)
-    body = skia.Path()
-    body.moveTo(-0.5 * s, 0.56 * s)
-    body.lineTo(-0.5 * s, 0.4 * s)
-    body.cubicTo(-0.5 * s, 0.14 * s, -0.3 * s, 0.08 * s, 0, 0.08 * s)
-    body.cubicTo(0.3 * s, 0.08 * s, 0.5 * s, 0.14 * s, 0.5 * s, 0.4 * s)
-    body.lineTo(0.5 * s, 0.56 * s)
-    body.close()
-    p.addPath(body)
-    c.save()
-    c.translate(9, 8)
-    c.drawPath(p, paint(RED))
-    c.restore()
-    c.drawPath(p, paint(fill))
-    draw_text(c, "?", 0, -0.2 * s + 0.15 * s, font(DISPLAY, 0.42 * s), paint(mark), "center")
-    c.restore()
-
-
 def node_tag(c, x, y, txt, t, appear, bg=OCHRE, fg=INK):
     sc = spring(prog(t, appear, 0.3), 2.2, 6)
     if sc <= 0:
@@ -134,20 +108,6 @@ def node_tag(c, x, y, txt, t, appear, bg=OCHRE, fg=INK):
     c.drawCircle(0, 0, 26, paint(bg))
     draw_text(c, txt, 0, 11, font(LABEL, 30), paint(fg), "center")
     c.restore()
-
-
-def tag_label(c, txt, x, y, t, at, bg, fg):
-    if t >= at:
-        sc = pop_scale(t, at, 0.3, 1.6)
-        c.save()
-        c.translate(x, y)
-        c.scale(sc, sc)
-        f = font(LABEL, 38)
-        w = f.measureText(txt) + 2 * (len(txt) - 1)
-        c.rotate(-3)
-        c.drawRect(skia.Rect.MakeLTRB(-w / 2 - 18, -40, w / 2 + 18, 12), paint(bg))
-        draw_text(c, txt, 0, 0, f, paint(fg), "center", 2)
-        c.restore()
 
 
 # ---------- scene 1: the target ----------

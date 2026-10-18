@@ -108,6 +108,48 @@ def label_build(c, words, x, y, t, bg, fg, size=40, rot=-2.5):
     c.restore()
 
 
+def silhouette(c, x, y, s, fill, mark, t, appear, off=RED):
+    """Unknown person: head-and-shoulders bust with a "?" face and a print offset."""
+    sc = spring(prog(t, appear, 0.35), 2.2, 6)
+    if sc <= 0:
+        return
+    c.save()
+    c.translate(x, y)
+    c.scale(sc, sc)
+    p = skia.Path()
+    p.addCircle(0, -0.2 * s, 0.25 * s)
+    body = skia.Path()
+    body.moveTo(-0.5 * s, 0.56 * s)
+    body.lineTo(-0.5 * s, 0.4 * s)
+    body.cubicTo(-0.5 * s, 0.14 * s, -0.3 * s, 0.08 * s, 0, 0.08 * s)
+    body.cubicTo(0.3 * s, 0.08 * s, 0.5 * s, 0.14 * s, 0.5 * s, 0.4 * s)
+    body.lineTo(0.5 * s, 0.56 * s)
+    body.close()
+    p.addPath(body)
+    c.save()
+    c.translate(9, 8)
+    c.drawPath(p, paint(off))
+    c.restore()
+    c.drawPath(p, paint(fill))
+    draw_text(c, "?", 0, -0.2 * s + 0.15 * s, font(DISPLAY, 0.42 * s), paint(mark), "center")
+    c.restore()
+
+
+def tag_label(c, txt, x, y, t, at, bg, fg):
+    """Small tilted name tag that pops in on a word."""
+    if t >= at:
+        sc = pop_scale(t, at, 0.3, 1.6)
+        c.save()
+        c.translate(x, y)
+        c.scale(sc, sc)
+        f = font(LABEL, 38)
+        w = f.measureText(txt) + 2 * (len(txt) - 1)
+        c.rotate(-3)
+        c.drawRect(skia.Rect.MakeLTRB(-w / 2 - 18, -40, w / 2 + 18, 12), paint(bg))
+        draw_text(c, txt, 0, 0, f, paint(fg), "center", 2)
+        c.restore()
+
+
 # ---------- images ----------
 
 def sticker(path, border=18, shadow=(16, 14)):
