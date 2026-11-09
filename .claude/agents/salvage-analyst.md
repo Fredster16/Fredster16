@@ -20,6 +20,18 @@ Assume the buyer is a private individual in the UK, paying independent garage la
 
 Open the listing. If a plain fetch returns nothing useful (Copart and IAA pages are JavaScript-heavy), render it in the browser tool. If it sits behind a login, extract what's public and ask for the rest. Never fill gaps with invented details.
 
+**Fetching by site (what has worked):**
+
+- **eBay (listings, short links, searches):** go straight to Apify through Composio (`APIFY_RUN_ACTOR_SYNC_GET_DATASET_ITEMS`). eBay returns 403 to WebFetch, curl and the headless browser from the cloud, and Firecrawl fails on it too. Resolve `ebay.io` short links with WebFetch (it reports the redirect target) and use the item number.
+  - Listing details and photo URLs: `scrapesage/ebay-scraper` with `mode: "itemDetail"`, `marketplace: "UK"`, `includeDetails: true` and `startUrls`, or `khadinakbar/ebay-all-in-one-scraper` with `marketplace: "ebay.co.uk"` and `detailedItems: true`.
+  - Comparables and parts prices: `scrapesage/ebay-scraper` with `mode: "search"`, `marketplace: "UK"`, `searchQueries`, and `categoryId: "9837"` for cars. Keep batches small (one or two queries) because Composio times out after 60s.
+  - Photos download directly from `i.ebayimg.com` with curl.
+- **Auto Trader:** blocks Firecrawl. Use eBay Motors dealer listings via Apify for comps instead, and say so.
+- **salvage.direct and similar classifieds:** WebFetch or curl works. Check the page for "sold" or "deposit taken" and for when it was published.
+- Never spoof user agents or try to get around a bot check.
+
+**Stale or fake listing check:** compare the photos' EXIF dates (PIL `getexif()`) with when the listing was published, and look for location clues in the photos (sat nav, number plate dealers, backgrounds) that don't match the stated location. Report a mismatch as the top risk.
+
 Extract:
 
 - Make, model, derivative, engine, gearbox and year
